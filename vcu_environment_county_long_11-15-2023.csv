@@ -1,0 +1,133 @@
+FIPS,County,State,measure,value
+51001,Accomack County,Virginia,PWS_Violations_Since_2016,3.0
+51007,Amelia County,Virginia,PWS_Violations_Since_2016,0.0
+51011,Appomattox County,Virginia,PWS_Violations_Since_2016,0.0
+51025,Brunswick County,Virginia,PWS_Violations_Since_2016,15.0
+51029,Buckingham County,Virginia,PWS_Violations_Since_2016,3.0
+51031,Campbell County,Virginia,PWS_Violations_Since_2016,4.0
+51033,Caroline County,Virginia,PWS_Violations_Since_2016,0.0
+51036,Charles City County,Virginia,PWS_Violations_Since_2016,
+51037,Charlotte County,Virginia,PWS_Violations_Since_2016,5.0
+51041,Chesterfield County,Virginia,PWS_Violations_Since_2016,0.0
+51049,Cumberland County,Virginia,PWS_Violations_Since_2016,0.0
+51053,Dinwiddie County,Virginia,PWS_Violations_Since_2016,0.0
+51057,Essex County,Virginia,PWS_Violations_Since_2016,0.0
+51073,Gloucester County,Virginia,PWS_Violations_Since_2016,1.0
+51075,Goochland County,Virginia,PWS_Violations_Since_2016,0.0
+51081,Greensville County,Virginia,PWS_Violations_Since_2016,0.0
+51083,Halifax County,Virginia,PWS_Violations_Since_2016,0.0
+51085,Hanover County,Virginia,PWS_Violations_Since_2016,0.0
+51087,Henrico County,Virginia,PWS_Violations_Since_2016,0.0
+51089,Henry County,Virginia,PWS_Violations_Since_2016,4.0
+51093,Isle Of Wight County,Virginia,PWS_Violations_Since_2016,
+51095,James City County,Virginia,PWS_Violations_Since_2016,
+51097,King And Queen County,Virginia,PWS_Violations_Since_2016,
+51099,King George County,Virginia,PWS_Violations_Since_2016,0.0
+51101,King William County,Virginia,PWS_Violations_Since_2016,0.0
+51103,Lancaster County,Virginia,PWS_Violations_Since_2016,0.0
+51109,Louisa County,Virginia,PWS_Violations_Since_2016,14.0
+51111,Lunenburg County,Virginia,PWS_Violations_Since_2016,1.0
+51115,Mathews County,Virginia,PWS_Violations_Since_2016,5.0
+51117,Mecklenburg County,Virginia,PWS_Violations_Since_2016,3.0
+51119,Middlesex County,Virginia,PWS_Violations_Since_2016,0.0
+51127,New Kent County,Virginia,PWS_Violations_Since_2016,0.0
+51131,Northampton County,Virginia,PWS_Violations_Since_2016,0.0
+51133,Northumberland County,Virginia,PWS_Violations_Since_2016,0.0
+51135,Nottoway County,Virginia,PWS_Violations_Since_2016,4.0
+51143,Pittsylvania County,Virginia,PWS_Violations_Since_2016,10.0
+51145,Powhatan County,Virginia,PWS_Violations_Since_2016,0.0
+51147,Prince Edward County,Virginia,PWS_Violations_Since_2016,0.0
+51149,Prince George County,Virginia,PWS_Violations_Since_2016,0.0
+51159,Richmond County,Virginia,PWS_Violations_Since_2016,0.0
+51175,Southampton County,Virginia,PWS_Violations_Since_2016,0.0
+51177,Spotsylvania County,Virginia,PWS_Violations_Since_2016,0.0
+51179,Stafford County,Virginia,PWS_Violations_Since_2016,0.0
+51181,Surry County,Virginia,PWS_Violations_Since_2016,0.0
+51183,Sussex County,Virginia,PWS_Violations_Since_2016,0.0
+51193,Westmoreland County,Virginia,PWS_Violations_Since_2016,0.0
+51199,York County,Virginia,PWS_Violations_Since_2016,0.0
+51550,Chesapeake City,Virginia,PWS_Violations_Since_2016,
+51570,Colonial Heights City,Virginia,PWS_Violations_Since_2016,
+51590,Danville City,Virginia,PWS_Violations_Since_2016,
+51595,Emporia City,Virginia,PWS_Violations_Since_2016,
+51620,Franklin City,Virginia,PWS_Violations_Since_2016,
+51630,Fredericksburg City,Virginia,PWS_Violations_Since_2016,
+51650,Hampton City,Virginia,PWS_Violations_Since_2016,
+51670,Hopewell City,Virginia,PWS_Violations_Since_2016,
+51680,Lynchburg City,Virginia,PWS_Violations_Since_2016,
+51690,Martinsville City,Virginia,PWS_Violations_Since_2016,
+51700,Newport News City,Virginia,PWS_Violations_Since_2016,
+51710,Norfolk City,Virginia,PWS_Violations_Since_2016,
+51730,Petersburg City,Virginia,PWS_Violations_Since_2016,
+51735,Poquoson City,Virginia,PWS_Violations_Since_2016,
+51740,Portsmouth City,Virginia,PWS_Violations_Since_2016,
+51760,Richmond City,Virginia,PWS_Violations_Since_2016,
+51800,Suffolk City,Virginia,PWS_Violations_Since_2016,
+51810,Virginia Beach City,Virginia,PWS_Violations_Since_2016,
+51830,Williamsburg City,Virginia,PWS_Violations_Since_2016,
+51001,Accomack County,Virginia,LILATracts_Vehicle,0.9303522249601391
+51007,Amelia County,Virginia,LILATracts_Vehicle,0.0
+51011,Appomattox County,Virginia,LILATracts_Vehicle,0.4417371125476546
+51025,Brunswick County,Virginia,LILATracts_Vehicle,0.6310084825636192
+51029,Buckingham County,Virginia,LILATracts_Vehicle,0.3022632020117351
+51031,Campbell County,Virginia,LILATracts_Vehicle,0.38295976115146385
+51033,Caroline County,Virginia,LILATracts_Vehicle,0.0
+51036,Charles City County,Virginia,LILATracts_Vehicle,0.0
+51037,Charlotte County,Virginia,LILATracts_Vehicle,0.7698179682912507
+51041,Chesterfield County,Virginia,LILATracts_Vehicle,0.00922372060857538
+51049,Cumberland County,Virginia,LILATracts_Vehicle,1.0
+51053,Dinwiddie County,Virginia,LILATracts_Vehicle,0.12642802741812642
+51057,Essex County,Virginia,LILATracts_Vehicle,0.38189063537746293
+51073,Gloucester County,Virginia,LILATracts_Vehicle,0.16630518435597846
+51075,Goochland County,Virginia,LILATracts_Vehicle,0.0
+51081,Greensville County,Virginia,LILATracts_Vehicle,0.5249579360628155
+51083,Halifax County,Virginia,LILATracts_Vehicle,0.5160092807424594
+51085,Hanover County,Virginia,LILATracts_Vehicle,0.043728989587034355
+51087,Henrico County,Virginia,LILATracts_Vehicle,0.10613879503374772
+51089,Henry County,Virginia,LILATracts_Vehicle,0.5286596691287634
+51093,Isle Of Wight County,Virginia,LILATracts_Vehicle,0.11955095494970112
+51095,James City County,Virginia,LILATracts_Vehicle,0.0
+51097,King And Queen County,Virginia,LILATracts_Vehicle,0.0
+51099,King George County,Virginia,LILATracts_Vehicle,0.0
+51101,King William County,Virginia,LILATracts_Vehicle,0.0
+51103,Lancaster County,Virginia,LILATracts_Vehicle,0.0
+51109,Louisa County,Virginia,LILATracts_Vehicle,0.14276885043263288
+51111,Lunenburg County,Virginia,LILATracts_Vehicle,0.39378656445430704
+51115,Mathews County,Virginia,LILATracts_Vehicle,0.0
+51117,Mecklenburg County,Virginia,LILATracts_Vehicle,0.44223786587625047
+51119,Middlesex County,Virginia,LILATracts_Vehicle,0.0
+51127,New Kent County,Virginia,LILATracts_Vehicle,0.0
+51131,Northampton County,Virginia,LILATracts_Vehicle,0.7121923727221492
+51133,Northumberland County,Virginia,LILATracts_Vehicle,0.29891696750902524
+51135,Nottoway County,Virginia,LILATracts_Vehicle,0.8072204696810376
+51143,Pittsylvania County,Virginia,LILATracts_Vehicle,0.15597907038918382
+51145,Powhatan County,Virginia,LILATracts_Vehicle,0.0
+51147,Prince Edward County,Virginia,LILATracts_Vehicle,0.6539919151086407
+51149,Prince George County,Virginia,LILATracts_Vehicle,0.0
+51159,Richmond County,Virginia,LILATracts_Vehicle,0.6635011079455524
+51175,Southampton County,Virginia,LILATracts_Vehicle,0.3682095549933026
+51177,Spotsylvania County,Virginia,LILATracts_Vehicle,0.032187306280101094
+51179,Stafford County,Virginia,LILATracts_Vehicle,0.0
+51181,Surry County,Virginia,LILATracts_Vehicle,0.4953998584571833
+51183,Sussex County,Virginia,LILATracts_Vehicle,0.2774161241862794
+51193,Westmoreland County,Virginia,LILATracts_Vehicle,0.0
+51199,York County,Virginia,LILATracts_Vehicle,0.0
+51550,Chesapeake City,Virginia,LILATracts_Vehicle,0.08285369593083168
+51570,Colonial Heights City,Virginia,LILATracts_Vehicle,0.14941580756013745
+51590,Danville City,Virginia,LILATracts_Vehicle,0.3631777388348999
+51595,Emporia City,Virginia,LILATracts_Vehicle,0.520293609671848
+51620,Franklin City,Virginia,LILATracts_Vehicle,0.4388101983002833
+51630,Fredericksburg City,Virginia,LILATracts_Vehicle,0.40084166228300894
+51650,Hampton City,Virginia,LILATracts_Vehicle,0.3066271737747815
+51670,Hopewell City,Virginia,LILATracts_Vehicle,0.46138678935261257
+51680,Lynchburg City,Virginia,LILATracts_Vehicle,0.5983284169124877
+51690,Martinsville City,Virginia,LILATracts_Vehicle,0.5904010519395135
+51700,Newport News City,Virginia,LILATracts_Vehicle,0.27523208422959355
+51710,Norfolk City,Virginia,LILATracts_Vehicle,0.28068451176504594
+51730,Petersburg City,Virginia,LILATracts_Vehicle,0.7116033445797272
+51735,Poquoson City,Virginia,LILATracts_Vehicle,0.0
+51740,Portsmouth City,Virginia,LILATracts_Vehicle,0.1842246275854678
+51760,Richmond City,Virginia,LILATracts_Vehicle,0.4145448703973563
+51800,Suffolk City,Virginia,LILATracts_Vehicle,0.20066087857975898
+51810,Virginia Beach City,Virginia,LILATracts_Vehicle,0.041801694843387506
+51830,Williamsburg City,Virginia,LILATracts_Vehicle,0.2642747757602275

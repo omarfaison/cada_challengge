@@ -1,0 +1,1585 @@
+FIPS,County,State,measure,value
+51001,Accomack County,Virginia,Met_Breast_Screen,0.74
+51007,Amelia County,Virginia,Met_Breast_Screen,0.748
+51011,Appomattox County,Virginia,Met_Breast_Screen,0.742
+51025,Brunswick County,Virginia,Met_Breast_Screen,0.763
+51029,Buckingham County,Virginia,Met_Breast_Screen,0.727
+51031,Campbell County,Virginia,Met_Breast_Screen,0.72
+51033,Caroline County,Virginia,Met_Breast_Screen,0.757
+51036,Charles City County,Virginia,Met_Breast_Screen,0.767
+51037,Charlotte County,Virginia,Met_Breast_Screen,0.722
+51041,Chesterfield County,Virginia,Met_Breast_Screen,0.767
+51049,Cumberland County,Virginia,Met_Breast_Screen,0.754
+51053,Dinwiddie County,Virginia,Met_Breast_Screen,0.765
+51057,Essex County,Virginia,Met_Breast_Screen,0.762
+51073,Gloucester County,Virginia,Met_Breast_Screen,0.7440000000000001
+51075,Goochland County,Virginia,Met_Breast_Screen,0.774
+51081,Greensville County,Virginia,Met_Breast_Screen,0.7659999999999999
+51083,Halifax County,Virginia,Met_Breast_Screen,0.73
+51085,Hanover County,Virginia,Met_Breast_Screen,0.7909999999999999
+51087,Henrico County,Virginia,Met_Breast_Screen,0.789
+51089,Henry County,Virginia,Met_Breast_Screen,0.758
+51093,Isle Of Wight County,Virginia,Met_Breast_Screen,0.765
+51095,James City County,Virginia,Met_Breast_Screen,0.784
+51097,King And Queen County,Virginia,Met_Breast_Screen,0.762
+51099,King George County,Virginia,Met_Breast_Screen,0.767
+51101,King William County,Virginia,Met_Breast_Screen,0.764
+51103,Lancaster County,Virginia,Met_Breast_Screen,0.7490000000000001
+51109,Louisa County,Virginia,Met_Breast_Screen,0.757
+51111,Lunenburg County,Virginia,Met_Breast_Screen,0.752
+51115,Mathews County,Virginia,Met_Breast_Screen,0.738
+51117,Mecklenburg County,Virginia,Met_Breast_Screen,0.753
+51119,Middlesex County,Virginia,Met_Breast_Screen,0.7440000000000001
+51127,New Kent County,Virginia,Met_Breast_Screen,0.7659999999999999
+51131,Northampton County,Virginia,Met_Breast_Screen,0.757
+51133,Northumberland County,Virginia,Met_Breast_Screen,0.738
+51135,Nottoway County,Virginia,Met_Breast_Screen,0.718
+51143,Pittsylvania County,Virginia,Met_Breast_Screen,0.764
+51145,Powhatan County,Virginia,Met_Breast_Screen,0.748
+51147,Prince Edward County,Virginia,Met_Breast_Screen,0.746
+51149,Prince George County,Virginia,Met_Breast_Screen,0.75
+51159,Richmond County,Virginia,Met_Breast_Screen,0.745
+51175,Southampton County,Virginia,Met_Breast_Screen,0.7509999999999999
+51177,Spotsylvania County,Virginia,Met_Breast_Screen,0.746
+51179,Stafford County,Virginia,Met_Breast_Screen,0.777
+51181,Surry County,Virginia,Met_Breast_Screen,0.763
+51183,Sussex County,Virginia,Met_Breast_Screen,0.753
+51193,Westmoreland County,Virginia,Met_Breast_Screen,0.74
+51199,York County,Virginia,Met_Breast_Screen,0.773
+51550,Chesapeake City,Virginia,Met_Breast_Screen,0.79
+51570,Colonial Heights City,Virginia,Met_Breast_Screen,0.752
+51590,Danville City,Virginia,Met_Breast_Screen,0.764
+51595,Emporia City,Virginia,Met_Breast_Screen,0.741
+51620,Franklin City,Virginia,Met_Breast_Screen,0.769
+51630,Fredericksburg City,Virginia,Met_Breast_Screen,0.742
+51650,Hampton City,Virginia,Met_Breast_Screen,0.794
+51670,Hopewell City,Virginia,Met_Breast_Screen,0.736
+51680,Lynchburg City,Virginia,Met_Breast_Screen,0.741
+51690,Martinsville City,Virginia,Met_Breast_Screen,0.746
+51700,Newport News City,Virginia,Met_Breast_Screen,0.7559999999999999
+51710,Norfolk City,Virginia,Met_Breast_Screen,0.797
+51730,Petersburg City,Virginia,Met_Breast_Screen,0.797
+51735,Poquoson City,Virginia,Met_Breast_Screen,0.763
+51740,Portsmouth City,Virginia,Met_Breast_Screen,0.7909999999999999
+51760,Richmond City,Virginia,Met_Breast_Screen,0.79
+51800,Suffolk City,Virginia,Met_Breast_Screen,0.782
+51810,Virginia Beach City,Virginia,Met_Breast_Screen,0.7929999999999999
+51830,Williamsburg City,Virginia,Met_Breast_Screen,0.7490000000000001
+51001,Accomack County,Virginia,Met_Cervical_Screen,0.8190000000000001
+51007,Amelia County,Virginia,Met_Cervical_Screen,0.831
+51011,Appomattox County,Virginia,Met_Cervical_Screen,0.8390000000000001
+51025,Brunswick County,Virginia,Met_Cervical_Screen,0.8240000000000001
+51029,Buckingham County,Virginia,Met_Cervical_Screen,0.821
+51031,Campbell County,Virginia,Met_Cervical_Screen,0.83
+51033,Caroline County,Virginia,Met_Cervical_Screen,0.847
+51036,Charles City County,Virginia,Met_Cervical_Screen,0.833
+51037,Charlotte County,Virginia,Met_Cervical_Screen,0.8170000000000001
+51041,Chesterfield County,Virginia,Met_Cervical_Screen,0.856
+51049,Cumberland County,Virginia,Met_Cervical_Screen,0.8370000000000001
+51053,Dinwiddie County,Virginia,Met_Cervical_Screen,0.8390000000000001
+51057,Essex County,Virginia,Met_Cervical_Screen,0.83
+51073,Gloucester County,Virginia,Met_Cervical_Screen,0.8290000000000001
+51075,Goochland County,Virginia,Met_Cervical_Screen,0.855
+51081,Greensville County,Virginia,Met_Cervical_Screen,0.828
+51083,Halifax County,Virginia,Met_Cervical_Screen,0.8270000000000001
+51085,Hanover County,Virginia,Met_Cervical_Screen,0.853
+51087,Henrico County,Virginia,Met_Cervical_Screen,0.852
+51089,Henry County,Virginia,Met_Cervical_Screen,0.816
+51093,Isle Of Wight County,Virginia,Met_Cervical_Screen,0.845
+51095,James City County,Virginia,Met_Cervical_Screen,0.862
+51097,King And Queen County,Virginia,Met_Cervical_Screen,0.846
+51099,King George County,Virginia,Met_Cervical_Screen,0.852
+51101,King William County,Virginia,Met_Cervical_Screen,0.8420000000000001
+51103,Lancaster County,Virginia,Met_Cervical_Screen,0.845
+51109,Louisa County,Virginia,Met_Cervical_Screen,0.8390000000000001
+51111,Lunenburg County,Virginia,Met_Cervical_Screen,0.8170000000000001
+51115,Mathews County,Virginia,Met_Cervical_Screen,0.84
+51117,Mecklenburg County,Virginia,Met_Cervical_Screen,0.8370000000000001
+51119,Middlesex County,Virginia,Met_Cervical_Screen,0.8390000000000001
+51127,New Kent County,Virginia,Met_Cervical_Screen,0.855
+51131,Northampton County,Virginia,Met_Cervical_Screen,0.8270000000000001
+51133,Northumberland County,Virginia,Met_Cervical_Screen,0.841
+51135,Nottoway County,Virginia,Met_Cervical_Screen,0.825
+51143,Pittsylvania County,Virginia,Met_Cervical_Screen,0.8240000000000001
+51145,Powhatan County,Virginia,Met_Cervical_Screen,0.852
+51147,Prince Edward County,Virginia,Met_Cervical_Screen,0.8029999999999999
+51149,Prince George County,Virginia,Met_Cervical_Screen,0.85
+51159,Richmond County,Virginia,Met_Cervical_Screen,0.82
+51175,Southampton County,Virginia,Met_Cervical_Screen,0.8390000000000001
+51177,Spotsylvania County,Virginia,Met_Cervical_Screen,0.8420000000000001
+51179,Stafford County,Virginia,Met_Cervical_Screen,0.863
+51181,Surry County,Virginia,Met_Cervical_Screen,0.835
+51183,Sussex County,Virginia,Met_Cervical_Screen,0.833
+51193,Westmoreland County,Virginia,Met_Cervical_Screen,0.8320000000000001
+51199,York County,Virginia,Met_Cervical_Screen,0.856
+51550,Chesapeake City,Virginia,Met_Cervical_Screen,0.841
+51570,Colonial Heights City,Virginia,Met_Cervical_Screen,0.84
+51590,Danville City,Virginia,Met_Cervical_Screen,0.821
+51595,Emporia City,Virginia,Met_Cervical_Screen,0.813
+51620,Franklin City,Virginia,Met_Cervical_Screen,0.838
+51630,Fredericksburg City,Virginia,Met_Cervical_Screen,0.8220000000000001
+51650,Hampton City,Virginia,Met_Cervical_Screen,0.836
+51670,Hopewell City,Virginia,Met_Cervical_Screen,0.8190000000000001
+51680,Lynchburg City,Virginia,Met_Cervical_Screen,0.807
+51690,Martinsville City,Virginia,Met_Cervical_Screen,0.826
+51700,Newport News City,Virginia,Met_Cervical_Screen,0.8320000000000001
+51710,Norfolk City,Virginia,Met_Cervical_Screen,0.8190000000000001
+51730,Petersburg City,Virginia,Met_Cervical_Screen,0.8290000000000001
+51735,Poquoson City,Virginia,Met_Cervical_Screen,0.857
+51740,Portsmouth City,Virginia,Met_Cervical_Screen,0.835
+51760,Richmond City,Virginia,Met_Cervical_Screen,0.828
+51800,Suffolk City,Virginia,Met_Cervical_Screen,0.857
+51810,Virginia Beach City,Virginia,Met_Cervical_Screen,0.846
+51830,Williamsburg City,Virginia,Met_Cervical_Screen,0.787
+51001,Accomack County,Virginia,Met_Colon_Screen,0.741
+51007,Amelia County,Virginia,Met_Colon_Screen,0.7440000000000001
+51011,Appomattox County,Virginia,Met_Colon_Screen,0.758
+51025,Brunswick County,Virginia,Met_Colon_Screen,0.7390000000000001
+51029,Buckingham County,Virginia,Met_Colon_Screen,0.716
+51031,Campbell County,Virginia,Met_Colon_Screen,0.723
+51033,Caroline County,Virginia,Met_Colon_Screen,0.75
+51036,Charles City County,Virginia,Met_Colon_Screen,0.74
+51037,Charlotte County,Virginia,Met_Colon_Screen,0.706
+51041,Chesterfield County,Virginia,Met_Colon_Screen,0.736
+51049,Cumberland County,Virginia,Met_Colon_Screen,0.746
+51053,Dinwiddie County,Virginia,Met_Colon_Screen,0.755
+51057,Essex County,Virginia,Met_Colon_Screen,0.74
+51073,Gloucester County,Virginia,Met_Colon_Screen,0.7509999999999999
+51075,Goochland County,Virginia,Met_Colon_Screen,0.78
+51081,Greensville County,Virginia,Met_Colon_Screen,0.7290000000000001
+51083,Halifax County,Virginia,Met_Colon_Screen,0.747
+51085,Hanover County,Virginia,Met_Colon_Screen,0.759
+51087,Henrico County,Virginia,Met_Colon_Screen,0.753
+51089,Henry County,Virginia,Met_Colon_Screen,0.725
+51093,Isle Of Wight County,Virginia,Met_Colon_Screen,0.746
+51095,James City County,Virginia,Met_Colon_Screen,0.777
+51097,King And Queen County,Virginia,Met_Colon_Screen,0.745
+51099,King George County,Virginia,Met_Colon_Screen,0.737
+51101,King William County,Virginia,Met_Colon_Screen,0.747
+51103,Lancaster County,Virginia,Met_Colon_Screen,0.778
+51109,Louisa County,Virginia,Met_Colon_Screen,0.7490000000000001
+51111,Lunenburg County,Virginia,Met_Colon_Screen,0.73
+51115,Mathews County,Virginia,Met_Colon_Screen,0.7609999999999999
+51117,Mecklenburg County,Virginia,Met_Colon_Screen,0.7490000000000001
+51119,Middlesex County,Virginia,Met_Colon_Screen,0.769
+51127,New Kent County,Virginia,Met_Colon_Screen,0.757
+51131,Northampton County,Virginia,Met_Colon_Screen,0.755
+51133,Northumberland County,Virginia,Met_Colon_Screen,0.7809999999999999
+51135,Nottoway County,Virginia,Met_Colon_Screen,0.7120000000000001
+51143,Pittsylvania County,Virginia,Met_Colon_Screen,0.726
+51145,Powhatan County,Virginia,Met_Colon_Screen,0.75
+51147,Prince Edward County,Virginia,Met_Colon_Screen,0.736
+51149,Prince George County,Virginia,Met_Colon_Screen,0.757
+51159,Richmond County,Virginia,Met_Colon_Screen,0.731
+51175,Southampton County,Virginia,Met_Colon_Screen,0.726
+51177,Spotsylvania County,Virginia,Met_Colon_Screen,0.769
+51179,Stafford County,Virginia,Met_Colon_Screen,0.746
+51181,Surry County,Virginia,Met_Colon_Screen,0.7440000000000001
+51183,Sussex County,Virginia,Met_Colon_Screen,0.738
+51193,Westmoreland County,Virginia,Met_Colon_Screen,0.746
+51199,York County,Virginia,Met_Colon_Screen,0.758
+51550,Chesapeake City,Virginia,Met_Colon_Screen,0.784
+51570,Colonial Heights City,Virginia,Met_Colon_Screen,0.745
+51590,Danville City,Virginia,Met_Colon_Screen,0.725
+51595,Emporia City,Virginia,Met_Colon_Screen,0.705
+51620,Franklin City,Virginia,Met_Colon_Screen,0.735
+51630,Fredericksburg City,Virginia,Met_Colon_Screen,0.746
+51650,Hampton City,Virginia,Met_Colon_Screen,0.764
+51670,Hopewell City,Virginia,Met_Colon_Screen,0.7070000000000001
+51680,Lynchburg City,Virginia,Met_Colon_Screen,0.74
+51690,Martinsville City,Virginia,Met_Colon_Screen,0.725
+51700,Newport News City,Virginia,Met_Colon_Screen,0.747
+51710,Norfolk City,Virginia,Met_Colon_Screen,0.774
+51730,Petersburg City,Virginia,Met_Colon_Screen,0.75
+51735,Poquoson City,Virginia,Met_Colon_Screen,0.764
+51740,Portsmouth City,Virginia,Met_Colon_Screen,0.767
+51760,Richmond City,Virginia,Met_Colon_Screen,0.7559999999999999
+51800,Suffolk City,Virginia,Met_Colon_Screen,0.757
+51810,Virginia Beach City,Virginia,Met_Colon_Screen,0.773
+51830,Williamsburg City,Virginia,Met_Colon_Screen,0.769
+51001,Accomack County,Virginia,Currently_Smoke,0.18600000000000003
+51007,Amelia County,Virginia,Currently_Smoke,0.184
+51011,Appomattox County,Virginia,Currently_Smoke,0.18100000000000002
+51025,Brunswick County,Virginia,Currently_Smoke,0.20600000000000002
+51029,Buckingham County,Virginia,Currently_Smoke,0.222
+51031,Campbell County,Virginia,Currently_Smoke,0.175
+51033,Caroline County,Virginia,Currently_Smoke,0.16899999999999998
+51036,Charles City County,Virginia,Currently_Smoke,0.188
+51037,Charlotte County,Virginia,Currently_Smoke,0.19899999999999998
+51041,Chesterfield County,Virginia,Currently_Smoke,0.131
+51049,Cumberland County,Virginia,Currently_Smoke,0.162
+51053,Dinwiddie County,Virginia,Currently_Smoke,0.182
+51057,Essex County,Virginia,Currently_Smoke,0.196
+51073,Gloucester County,Virginia,Currently_Smoke,0.156
+51075,Goochland County,Virginia,Currently_Smoke,0.11699999999999999
+51081,Greensville County,Virginia,Currently_Smoke,0.22
+51083,Halifax County,Virginia,Currently_Smoke,0.191
+51085,Hanover County,Virginia,Currently_Smoke,0.12300000000000001
+51087,Henrico County,Virginia,Currently_Smoke,0.132
+51089,Henry County,Virginia,Currently_Smoke,0.20600000000000002
+51093,Isle Of Wight County,Virginia,Currently_Smoke,0.15
+51095,James City County,Virginia,Currently_Smoke,0.10800000000000001
+51097,King And Queen County,Virginia,Currently_Smoke,0.17300000000000001
+51099,King George County,Virginia,Currently_Smoke,0.14300000000000002
+51101,King William County,Virginia,Currently_Smoke,0.161
+51103,Lancaster County,Virginia,Currently_Smoke,0.141
+51109,Louisa County,Virginia,Currently_Smoke,0.17
+51111,Lunenburg County,Virginia,Currently_Smoke,0.213
+51115,Mathews County,Virginia,Currently_Smoke,0.134
+51117,Mecklenburg County,Virginia,Currently_Smoke,0.18
+51119,Middlesex County,Virginia,Currently_Smoke,0.151
+51127,New Kent County,Virginia,Currently_Smoke,0.139
+51131,Northampton County,Virginia,Currently_Smoke,0.158
+51133,Northumberland County,Virginia,Currently_Smoke,0.142
+51135,Nottoway County,Virginia,Currently_Smoke,0.209
+51143,Pittsylvania County,Virginia,Currently_Smoke,0.18899999999999997
+51145,Powhatan County,Virginia,Currently_Smoke,0.14
+51147,Prince Edward County,Virginia,Currently_Smoke,0.166
+51149,Prince George County,Virginia,Currently_Smoke,0.17
+51159,Richmond County,Virginia,Currently_Smoke,0.2
+51175,Southampton County,Virginia,Currently_Smoke,0.16399999999999998
+51177,Spotsylvania County,Virginia,Currently_Smoke,0.136
+51179,Stafford County,Virginia,Currently_Smoke,0.12
+51181,Surry County,Virginia,Currently_Smoke,0.17800000000000002
+51183,Sussex County,Virginia,Currently_Smoke,0.19899999999999998
+51193,Westmoreland County,Virginia,Currently_Smoke,0.188
+51199,York County,Virginia,Currently_Smoke,0.11
+51550,Chesapeake City,Virginia,Currently_Smoke,0.142
+51570,Colonial Heights City,Virginia,Currently_Smoke,0.149
+51590,Danville City,Virginia,Currently_Smoke,0.207
+51595,Emporia City,Virginia,Currently_Smoke,0.23600000000000002
+51620,Franklin City,Virginia,Currently_Smoke,0.19699999999999998
+51630,Fredericksburg City,Virginia,Currently_Smoke,0.128
+51650,Hampton City,Virginia,Currently_Smoke,0.16899999999999998
+51670,Hopewell City,Virginia,Currently_Smoke,0.221
+51680,Lynchburg City,Virginia,Currently_Smoke,0.14400000000000002
+51690,Martinsville City,Virginia,Currently_Smoke,0.205
+51700,Newport News City,Virginia,Currently_Smoke,0.175
+51710,Norfolk City,Virginia,Currently_Smoke,0.163
+51730,Petersburg City,Virginia,Currently_Smoke,0.2
+51735,Poquoson City,Virginia,Currently_Smoke,0.12300000000000001
+51740,Portsmouth City,Virginia,Currently_Smoke,0.18
+51760,Richmond City,Virginia,Currently_Smoke,0.16
+51800,Suffolk City,Virginia,Currently_Smoke,0.152
+51810,Virginia Beach City,Virginia,Currently_Smoke,0.135
+51830,Williamsburg City,Virginia,Currently_Smoke,0.11199999999999999
+51001,Accomack County,Virginia,BMI_Obese,0.39899999999999997
+51007,Amelia County,Virginia,BMI_Obese,0.401
+51011,Appomattox County,Virginia,BMI_Obese,0.4
+51025,Brunswick County,Virginia,BMI_Obese,0.439
+51029,Buckingham County,Virginia,BMI_Obese,0.41200000000000003
+51031,Campbell County,Virginia,BMI_Obese,0.337
+51033,Caroline County,Virginia,BMI_Obese,0.38
+51036,Charles City County,Virginia,BMI_Obese,0.413
+51037,Charlotte County,Virginia,BMI_Obese,0.425
+51041,Chesterfield County,Virginia,BMI_Obese,0.36200000000000004
+51049,Cumberland County,Virginia,BMI_Obese,0.405
+51053,Dinwiddie County,Virginia,BMI_Obese,0.428
+51057,Essex County,Virginia,BMI_Obese,0.44
+51073,Gloucester County,Virginia,BMI_Obese,0.35600000000000004
+51075,Goochland County,Virginia,BMI_Obese,0.34
+51081,Greensville County,Virginia,BMI_Obese,0.46299999999999997
+51083,Halifax County,Virginia,BMI_Obese,0.43700000000000006
+51085,Hanover County,Virginia,BMI_Obese,0.321
+51087,Henrico County,Virginia,BMI_Obese,0.369
+51089,Henry County,Virginia,BMI_Obese,0.41700000000000004
+51093,Isle Of Wight County,Virginia,BMI_Obese,0.384
+51095,James City County,Virginia,BMI_Obese,0.332
+51097,King And Queen County,Virginia,BMI_Obese,0.39899999999999997
+51099,King George County,Virginia,BMI_Obese,0.368
+51101,King William County,Virginia,BMI_Obese,0.395
+51103,Lancaster County,Virginia,BMI_Obese,0.358
+51109,Louisa County,Virginia,BMI_Obese,0.36200000000000004
+51111,Lunenburg County,Virginia,BMI_Obese,0.429
+51115,Mathews County,Virginia,BMI_Obese,0.366
+51117,Mecklenburg County,Virginia,BMI_Obese,0.39899999999999997
+51119,Middlesex County,Virginia,BMI_Obese,0.36
+51127,New Kent County,Virginia,BMI_Obese,0.365
+51131,Northampton County,Virginia,BMI_Obese,0.369
+51133,Northumberland County,Virginia,BMI_Obese,0.37200000000000005
+51135,Nottoway County,Virginia,BMI_Obese,0.396
+51143,Pittsylvania County,Virginia,BMI_Obese,0.419
+51145,Powhatan County,Virginia,BMI_Obese,0.34600000000000003
+51147,Prince Edward County,Virginia,BMI_Obese,0.377
+51149,Prince George County,Virginia,BMI_Obese,0.426
+51159,Richmond County,Virginia,BMI_Obese,0.386
+51175,Southampton County,Virginia,BMI_Obese,0.38299999999999995
+51177,Spotsylvania County,Virginia,BMI_Obese,0.363
+51179,Stafford County,Virginia,BMI_Obese,0.38
+51181,Surry County,Virginia,BMI_Obese,0.423
+51183,Sussex County,Virginia,BMI_Obese,0.42200000000000004
+51193,Westmoreland County,Virginia,BMI_Obese,0.386
+51199,York County,Virginia,BMI_Obese,0.33799999999999997
+51550,Chesapeake City,Virginia,BMI_Obese,0.366
+51570,Colonial Heights City,Virginia,BMI_Obese,0.374
+51590,Danville City,Virginia,BMI_Obese,0.44299999999999995
+51595,Emporia City,Virginia,BMI_Obese,0.466
+51620,Franklin City,Virginia,BMI_Obese,0.436
+51630,Fredericksburg City,Virginia,BMI_Obese,0.34
+51650,Hampton City,Virginia,BMI_Obese,0.418
+51670,Hopewell City,Virginia,BMI_Obese,0.45399999999999996
+51680,Lynchburg City,Virginia,BMI_Obese,0.345
+51690,Martinsville City,Virginia,BMI_Obese,0.447
+51700,Newport News City,Virginia,BMI_Obese,0.45
+51710,Norfolk City,Virginia,BMI_Obese,0.391
+51730,Petersburg City,Virginia,BMI_Obese,0.45799999999999996
+51735,Poquoson City,Virginia,BMI_Obese,0.321
+51740,Portsmouth City,Virginia,BMI_Obese,0.474
+51760,Richmond City,Virginia,BMI_Obese,0.325
+51800,Suffolk City,Virginia,BMI_Obese,0.428
+51810,Virginia Beach City,Virginia,BMI_Obese,0.315
+51830,Williamsburg City,Virginia,BMI_Obese,0.297
+51001,Accomack County,Virginia,Physically_Inactive,0.307
+51007,Amelia County,Virginia,Physically_Inactive,0.27699999999999997
+51011,Appomattox County,Virginia,Physically_Inactive,0.26899999999999996
+51025,Brunswick County,Virginia,Physically_Inactive,0.309
+51029,Buckingham County,Virginia,Physically_Inactive,0.3
+51031,Campbell County,Virginia,Physically_Inactive,0.26899999999999996
+51033,Caroline County,Virginia,Physically_Inactive,0.256
+51036,Charles City County,Virginia,Physically_Inactive,0.302
+51037,Charlotte County,Virginia,Physically_Inactive,0.301
+51041,Chesterfield County,Virginia,Physically_Inactive,0.20600000000000002
+51049,Cumberland County,Virginia,Physically_Inactive,0.258
+51053,Dinwiddie County,Virginia,Physically_Inactive,0.264
+51057,Essex County,Virginia,Physically_Inactive,0.297
+51073,Gloucester County,Virginia,Physically_Inactive,0.222
+51075,Goochland County,Virginia,Physically_Inactive,0.19
+51081,Greensville County,Virginia,Physically_Inactive,0.298
+51083,Halifax County,Virginia,Physically_Inactive,0.314
+51085,Hanover County,Virginia,Physically_Inactive,0.179
+51087,Henrico County,Virginia,Physically_Inactive,0.228
+51089,Henry County,Virginia,Physically_Inactive,0.318
+51093,Isle Of Wight County,Virginia,Physically_Inactive,0.23399999999999999
+51095,James City County,Virginia,Physically_Inactive,0.198
+51097,King And Queen County,Virginia,Physically_Inactive,0.264
+51099,King George County,Virginia,Physically_Inactive,0.21100000000000002
+51101,King William County,Virginia,Physically_Inactive,0.22699999999999998
+51103,Lancaster County,Virginia,Physically_Inactive,0.265
+51109,Louisa County,Virginia,Physically_Inactive,0.248
+51111,Lunenburg County,Virginia,Physically_Inactive,0.308
+51115,Mathews County,Virginia,Physically_Inactive,0.23199999999999998
+51117,Mecklenburg County,Virginia,Physically_Inactive,0.3
+51119,Middlesex County,Virginia,Physically_Inactive,0.263
+51127,New Kent County,Virginia,Physically_Inactive,0.201
+51131,Northampton County,Virginia,Physically_Inactive,0.28600000000000003
+51133,Northumberland County,Virginia,Physically_Inactive,0.259
+51135,Nottoway County,Virginia,Physically_Inactive,0.301
+51143,Pittsylvania County,Virginia,Physically_Inactive,0.301
+51145,Powhatan County,Virginia,Physically_Inactive,0.204
+51147,Prince Edward County,Virginia,Physically_Inactive,0.262
+51149,Prince George County,Virginia,Physically_Inactive,0.242
+51159,Richmond County,Virginia,Physically_Inactive,0.304
+51175,Southampton County,Virginia,Physically_Inactive,0.25
+51177,Spotsylvania County,Virginia,Physically_Inactive,0.22
+51179,Stafford County,Virginia,Physically_Inactive,0.19
+51181,Surry County,Virginia,Physically_Inactive,0.285
+51183,Sussex County,Virginia,Physically_Inactive,0.3
+51193,Westmoreland County,Virginia,Physically_Inactive,0.297
+51199,York County,Virginia,Physically_Inactive,0.17800000000000002
+51550,Chesapeake City,Virginia,Physically_Inactive,0.21600000000000003
+51570,Colonial Heights City,Virginia,Physically_Inactive,0.235
+51590,Danville City,Virginia,Physically_Inactive,0.335
+51595,Emporia City,Virginia,Physically_Inactive,0.37799999999999995
+51620,Franklin City,Virginia,Physically_Inactive,0.317
+51630,Fredericksburg City,Virginia,Physically_Inactive,0.21100000000000002
+51650,Hampton City,Virginia,Physically_Inactive,0.262
+51670,Hopewell City,Virginia,Physically_Inactive,0.33899999999999997
+51680,Lynchburg City,Virginia,Physically_Inactive,0.222
+51690,Martinsville City,Virginia,Physically_Inactive,0.31
+51700,Newport News City,Virginia,Physically_Inactive,0.268
+51710,Norfolk City,Virginia,Physically_Inactive,0.225
+51730,Petersburg City,Virginia,Physically_Inactive,0.32299999999999995
+51735,Poquoson City,Virginia,Physically_Inactive,0.184
+51740,Portsmouth City,Virginia,Physically_Inactive,0.287
+51760,Richmond City,Virginia,Physically_Inactive,0.21899999999999997
+51800,Suffolk City,Virginia,Physically_Inactive,0.247
+51810,Virginia Beach City,Virginia,Physically_Inactive,0.193
+51830,Williamsburg City,Virginia,Physically_Inactive,0.20199999999999999
+51001,Accomack County,Virginia,Binge_Drinking,0.125
+51007,Amelia County,Virginia,Binge_Drinking,0.14800000000000002
+51011,Appomattox County,Virginia,Binge_Drinking,0.147
+51025,Brunswick County,Virginia,Binge_Drinking,0.136
+51029,Buckingham County,Virginia,Binge_Drinking,0.147
+51031,Campbell County,Virginia,Binge_Drinking,0.147
+51033,Caroline County,Virginia,Binge_Drinking,0.158
+51036,Charles City County,Virginia,Binge_Drinking,0.127
+51037,Charlotte County,Virginia,Binge_Drinking,0.135
+51041,Chesterfield County,Virginia,Binge_Drinking,0.17
+51049,Cumberland County,Virginia,Binge_Drinking,0.145
+51053,Dinwiddie County,Virginia,Binge_Drinking,0.15
+51057,Essex County,Virginia,Binge_Drinking,0.127
+51073,Gloucester County,Virginia,Binge_Drinking,0.15
+51075,Goochland County,Virginia,Binge_Drinking,0.149
+51081,Greensville County,Virginia,Binge_Drinking,0.156
+51083,Halifax County,Virginia,Binge_Drinking,0.125
+51085,Hanover County,Virginia,Binge_Drinking,0.17
+51087,Henrico County,Virginia,Binge_Drinking,0.157
+51089,Henry County,Virginia,Binge_Drinking,0.13
+51093,Isle Of Wight County,Virginia,Binge_Drinking,0.161
+51095,James City County,Virginia,Binge_Drinking,0.157
+51097,King And Queen County,Virginia,Binge_Drinking,0.14300000000000002
+51099,King George County,Virginia,Binge_Drinking,0.171
+51101,King William County,Virginia,Binge_Drinking,0.16399999999999998
+51103,Lancaster County,Virginia,Binge_Drinking,0.11199999999999999
+51109,Louisa County,Virginia,Binge_Drinking,0.152
+51111,Lunenburg County,Virginia,Binge_Drinking,0.134
+51115,Mathews County,Virginia,Binge_Drinking,0.135
+51117,Mecklenburg County,Virginia,Binge_Drinking,0.124
+51119,Middlesex County,Virginia,Binge_Drinking,0.134
+51127,New Kent County,Virginia,Binge_Drinking,0.17300000000000001
+51131,Northampton County,Virginia,Binge_Drinking,0.12
+51133,Northumberland County,Virginia,Binge_Drinking,0.11199999999999999
+51135,Nottoway County,Virginia,Binge_Drinking,0.145
+51143,Pittsylvania County,Virginia,Binge_Drinking,0.13
+51145,Powhatan County,Virginia,Binge_Drinking,0.174
+51147,Prince Edward County,Virginia,Binge_Drinking,0.155
+51149,Prince George County,Virginia,Binge_Drinking,0.162
+51159,Richmond County,Virginia,Binge_Drinking,0.14800000000000002
+51175,Southampton County,Virginia,Binge_Drinking,0.14800000000000002
+51177,Spotsylvania County,Virginia,Binge_Drinking,0.161
+51179,Stafford County,Virginia,Binge_Drinking,0.17800000000000002
+51181,Surry County,Virginia,Binge_Drinking,0.129
+51183,Sussex County,Virginia,Binge_Drinking,0.16
+51193,Westmoreland County,Virginia,Binge_Drinking,0.131
+51199,York County,Virginia,Binge_Drinking,0.16
+51550,Chesapeake City,Virginia,Binge_Drinking,0.154
+51570,Colonial Heights City,Virginia,Binge_Drinking,0.156
+51590,Danville City,Virginia,Binge_Drinking,0.11900000000000001
+51595,Emporia City,Virginia,Binge_Drinking,0.111
+51620,Franklin City,Virginia,Binge_Drinking,0.121
+51630,Fredericksburg City,Virginia,Binge_Drinking,0.175
+51650,Hampton City,Virginia,Binge_Drinking,0.147
+51670,Hopewell City,Virginia,Binge_Drinking,0.135
+51680,Lynchburg City,Virginia,Binge_Drinking,0.165
+51690,Martinsville City,Virginia,Binge_Drinking,0.13
+51700,Newport News City,Virginia,Binge_Drinking,0.16699999999999998
+51710,Norfolk City,Virginia,Binge_Drinking,0.174
+51730,Petersburg City,Virginia,Binge_Drinking,0.11599999999999999
+51735,Poquoson City,Virginia,Binge_Drinking,0.172
+51740,Portsmouth City,Virginia,Binge_Drinking,0.14300000000000002
+51760,Richmond City,Virginia,Binge_Drinking,0.19399999999999998
+51800,Suffolk City,Virginia,Binge_Drinking,0.156
+51810,Virginia Beach City,Virginia,Binge_Drinking,0.162
+51830,Williamsburg City,Virginia,Binge_Drinking,0.16699999999999998
+51001,Accomack County,Virginia,Sleep_Debt,0.369
+51007,Amelia County,Virginia,Sleep_Debt,0.36
+51011,Appomattox County,Virginia,Sleep_Debt,0.363
+51025,Brunswick County,Virginia,Sleep_Debt,0.395
+51029,Buckingham County,Virginia,Sleep_Debt,0.38
+51031,Campbell County,Virginia,Sleep_Debt,0.366
+51033,Caroline County,Virginia,Sleep_Debt,0.371
+51036,Charles City County,Virginia,Sleep_Debt,0.38
+51037,Charlotte County,Virginia,Sleep_Debt,0.374
+51041,Chesterfield County,Virginia,Sleep_Debt,0.358
+51049,Cumberland County,Virginia,Sleep_Debt,0.36200000000000004
+51053,Dinwiddie County,Virginia,Sleep_Debt,0.374
+51057,Essex County,Virginia,Sleep_Debt,0.38299999999999995
+51073,Gloucester County,Virginia,Sleep_Debt,0.358
+51075,Goochland County,Virginia,Sleep_Debt,0.32299999999999995
+51081,Greensville County,Virginia,Sleep_Debt,0.435
+51083,Halifax County,Virginia,Sleep_Debt,0.368
+51085,Hanover County,Virginia,Sleep_Debt,0.313
+51087,Henrico County,Virginia,Sleep_Debt,0.35100000000000003
+51089,Henry County,Virginia,Sleep_Debt,0.379
+51093,Isle Of Wight County,Virginia,Sleep_Debt,0.358
+51095,James City County,Virginia,Sleep_Debt,0.289
+51097,King And Queen County,Virginia,Sleep_Debt,0.365
+51099,King George County,Virginia,Sleep_Debt,0.349
+51101,King William County,Virginia,Sleep_Debt,0.37200000000000005
+51103,Lancaster County,Virginia,Sleep_Debt,0.321
+51109,Louisa County,Virginia,Sleep_Debt,0.35
+51111,Lunenburg County,Virginia,Sleep_Debt,0.374
+51115,Mathews County,Virginia,Sleep_Debt,0.306
+51117,Mecklenburg County,Virginia,Sleep_Debt,0.361
+51119,Middlesex County,Virginia,Sleep_Debt,0.324
+51127,New Kent County,Virginia,Sleep_Debt,0.326
+51131,Northampton County,Virginia,Sleep_Debt,0.349
+51133,Northumberland County,Virginia,Sleep_Debt,0.31
+51135,Nottoway County,Virginia,Sleep_Debt,0.39899999999999997
+51143,Pittsylvania County,Virginia,Sleep_Debt,0.354
+51145,Powhatan County,Virginia,Sleep_Debt,0.327
+51147,Prince Edward County,Virginia,Sleep_Debt,0.348
+51149,Prince George County,Virginia,Sleep_Debt,0.373
+51159,Richmond County,Virginia,Sleep_Debt,0.39799999999999996
+51175,Southampton County,Virginia,Sleep_Debt,0.355
+51177,Spotsylvania County,Virginia,Sleep_Debt,0.336
+51179,Stafford County,Virginia,Sleep_Debt,0.365
+51181,Surry County,Virginia,Sleep_Debt,0.373
+51183,Sussex County,Virginia,Sleep_Debt,0.415
+51193,Westmoreland County,Virginia,Sleep_Debt,0.375
+51199,York County,Virginia,Sleep_Debt,0.33299999999999996
+51550,Chesapeake City,Virginia,Sleep_Debt,0.36
+51570,Colonial Heights City,Virginia,Sleep_Debt,0.35100000000000003
+51590,Danville City,Virginia,Sleep_Debt,0.4
+51595,Emporia City,Virginia,Sleep_Debt,0.42100000000000004
+51620,Franklin City,Virginia,Sleep_Debt,0.396
+51630,Fredericksburg City,Virginia,Sleep_Debt,0.33799999999999997
+51650,Hampton City,Virginia,Sleep_Debt,0.397
+51670,Hopewell City,Virginia,Sleep_Debt,0.433
+51680,Lynchburg City,Virginia,Sleep_Debt,0.33799999999999997
+51690,Martinsville City,Virginia,Sleep_Debt,0.396
+51700,Newport News City,Virginia,Sleep_Debt,0.376
+51710,Norfolk City,Virginia,Sleep_Debt,0.40299999999999997
+51730,Petersburg City,Virginia,Sleep_Debt,0.436
+51735,Poquoson City,Virginia,Sleep_Debt,0.304
+51740,Portsmouth City,Virginia,Sleep_Debt,0.436
+51760,Richmond City,Virginia,Sleep_Debt,0.34600000000000003
+51800,Suffolk City,Virginia,Sleep_Debt,0.361
+51810,Virginia Beach City,Virginia,Sleep_Debt,0.33899999999999997
+51830,Williamsburg City,Virginia,Sleep_Debt,0.325
+51001,Accomack County,Virginia,Cancer_Prevalence,0.087
+51007,Amelia County,Virginia,Cancer_Prevalence,0.08
+51011,Appomattox County,Virginia,Cancer_Prevalence,0.081
+51025,Brunswick County,Virginia,Cancer_Prevalence,0.07400000000000001
+51029,Buckingham County,Virginia,Cancer_Prevalence,0.075
+51031,Campbell County,Virginia,Cancer_Prevalence,0.081
+51033,Caroline County,Virginia,Cancer_Prevalence,0.071
+51036,Charles City County,Virginia,Cancer_Prevalence,0.086
+51037,Charlotte County,Virginia,Cancer_Prevalence,0.085
+51041,Chesterfield County,Virginia,Cancer_Prevalence,0.071
+51049,Cumberland County,Virginia,Cancer_Prevalence,0.083
+51053,Dinwiddie County,Virginia,Cancer_Prevalence,0.07400000000000001
+51057,Essex County,Virginia,Cancer_Prevalence,0.084
+51073,Gloucester County,Virginia,Cancer_Prevalence,0.083
+51075,Goochland County,Virginia,Cancer_Prevalence,0.086
+51081,Greensville County,Virginia,Cancer_Prevalence,0.06
+51083,Halifax County,Virginia,Cancer_Prevalence,0.087
+51085,Hanover County,Virginia,Cancer_Prevalence,0.08
+51087,Henrico County,Virginia,Cancer_Prevalence,0.068
+51089,Henry County,Virginia,Cancer_Prevalence,0.08800000000000001
+51093,Isle Of Wight County,Virginia,Cancer_Prevalence,0.08
+51095,James City County,Virginia,Cancer_Prevalence,0.09300000000000001
+51097,King And Queen County,Virginia,Cancer_Prevalence,0.084
+51099,King George County,Virginia,Cancer_Prevalence,0.068
+51101,King William County,Virginia,Cancer_Prevalence,0.073
+51103,Lancaster County,Virginia,Cancer_Prevalence,0.11
+51109,Louisa County,Virginia,Cancer_Prevalence,0.081
+51111,Lunenburg County,Virginia,Cancer_Prevalence,0.08
+51115,Mathews County,Virginia,Cancer_Prevalence,0.10300000000000001
+51117,Mecklenburg County,Virginia,Cancer_Prevalence,0.08900000000000001
+51119,Middlesex County,Virginia,Cancer_Prevalence,0.10400000000000001
+51127,New Kent County,Virginia,Cancer_Prevalence,0.075
+51131,Northampton County,Virginia,Cancer_Prevalence,0.094
+51133,Northumberland County,Virginia,Cancer_Prevalence,0.109
+51135,Nottoway County,Virginia,Cancer_Prevalence,0.07200000000000001
+51143,Pittsylvania County,Virginia,Cancer_Prevalence,0.086
+51145,Powhatan County,Virginia,Cancer_Prevalence,0.08
+51147,Prince Edward County,Virginia,Cancer_Prevalence,0.061
+51149,Prince George County,Virginia,Cancer_Prevalence,0.065
+51159,Richmond County,Virginia,Cancer_Prevalence,0.077
+51175,Southampton County,Virginia,Cancer_Prevalence,0.08
+51177,Spotsylvania County,Virginia,Cancer_Prevalence,0.069
+51179,Stafford County,Virginia,Cancer_Prevalence,0.06
+51181,Surry County,Virginia,Cancer_Prevalence,0.085
+51183,Sussex County,Virginia,Cancer_Prevalence,0.064
+51193,Westmoreland County,Virginia,Cancer_Prevalence,0.09
+51199,York County,Virginia,Cancer_Prevalence,0.073
+51550,Chesapeake City,Virginia,Cancer_Prevalence,0.065
+51570,Colonial Heights City,Virginia,Cancer_Prevalence,0.079
+51590,Danville City,Virginia,Cancer_Prevalence,0.076
+51595,Emporia City,Virginia,Cancer_Prevalence,0.075
+51620,Franklin City,Virginia,Cancer_Prevalence,0.077
+51630,Fredericksburg City,Virginia,Cancer_Prevalence,0.054000000000000006
+51650,Hampton City,Virginia,Cancer_Prevalence,0.064
+51670,Hopewell City,Virginia,Cancer_Prevalence,0.067
+51680,Lynchburg City,Virginia,Cancer_Prevalence,0.055999999999999994
+51690,Martinsville City,Virginia,Cancer_Prevalence,0.073
+51700,Newport News City,Virginia,Cancer_Prevalence,0.062
+51710,Norfolk City,Virginia,Cancer_Prevalence,0.051
+51730,Petersburg City,Virginia,Cancer_Prevalence,0.063
+51735,Poquoson City,Virginia,Cancer_Prevalence,0.081
+51740,Portsmouth City,Virginia,Cancer_Prevalence,0.063
+51760,Richmond City,Virginia,Cancer_Prevalence,0.055999999999999994
+51800,Suffolk City,Virginia,Cancer_Prevalence,0.066
+51810,Virginia Beach City,Virginia,Cancer_Prevalence,0.065
+51830,Williamsburg City,Virginia,Cancer_Prevalence,0.06
+51001,Accomack County,Virginia,Bad_Health,0.23199999999999998
+51007,Amelia County,Virginia,Bad_Health,0.204
+51011,Appomattox County,Virginia,Bad_Health,0.193
+51025,Brunswick County,Virginia,Bad_Health,0.247
+51029,Buckingham County,Virginia,Bad_Health,0.237
+51031,Campbell County,Virginia,Bad_Health,0.183
+51033,Caroline County,Virginia,Bad_Health,0.17600000000000002
+51036,Charles City County,Virginia,Bad_Health,0.23800000000000002
+51037,Charlotte County,Virginia,Bad_Health,0.22899999999999998
+51041,Chesterfield County,Virginia,Bad_Health,0.14300000000000002
+51049,Cumberland County,Virginia,Bad_Health,0.187
+51053,Dinwiddie County,Virginia,Bad_Health,0.187
+51057,Essex County,Virginia,Bad_Health,0.235
+51073,Gloucester County,Virginia,Bad_Health,0.159
+51075,Goochland County,Virginia,Bad_Health,0.136
+51081,Greensville County,Virginia,Bad_Health,0.235
+51083,Halifax County,Virginia,Bad_Health,0.23600000000000002
+51085,Hanover County,Virginia,Bad_Health,0.138
+51087,Henrico County,Virginia,Bad_Health,0.147
+51089,Henry County,Virginia,Bad_Health,0.252
+51093,Isle Of Wight County,Virginia,Bad_Health,0.168
+51095,James City County,Virginia,Bad_Health,0.13699999999999998
+51097,King And Queen County,Virginia,Bad_Health,0.201
+51099,King George County,Virginia,Bad_Health,0.147
+51101,King William County,Virginia,Bad_Health,0.157
+51103,Lancaster County,Virginia,Bad_Health,0.19699999999999998
+51109,Louisa County,Virginia,Bad_Health,0.18
+51111,Lunenburg County,Virginia,Bad_Health,0.245
+51115,Mathews County,Virginia,Bad_Health,0.172
+51117,Mecklenburg County,Virginia,Bad_Health,0.21899999999999997
+51119,Middlesex County,Virginia,Bad_Health,0.196
+51127,New Kent County,Virginia,Bad_Health,0.142
+51131,Northampton County,Virginia,Bad_Health,0.218
+51133,Northumberland County,Virginia,Bad_Health,0.201
+51135,Nottoway County,Virginia,Bad_Health,0.23199999999999998
+51143,Pittsylvania County,Virginia,Bad_Health,0.22699999999999998
+51145,Powhatan County,Virginia,Bad_Health,0.14300000000000002
+51147,Prince Edward County,Virginia,Bad_Health,0.19399999999999998
+51149,Prince George County,Virginia,Bad_Health,0.177
+51159,Richmond County,Virginia,Bad_Health,0.225
+51175,Southampton County,Virginia,Bad_Health,0.191
+51177,Spotsylvania County,Virginia,Bad_Health,0.154
+51179,Stafford County,Virginia,Bad_Health,0.13
+51181,Surry County,Virginia,Bad_Health,0.223
+51183,Sussex County,Virginia,Bad_Health,0.22
+51193,Westmoreland County,Virginia,Bad_Health,0.22899999999999998
+51199,York County,Virginia,Bad_Health,0.124
+51550,Chesapeake City,Virginia,Bad_Health,0.152
+51570,Colonial Heights City,Virginia,Bad_Health,0.16
+51590,Danville City,Virginia,Bad_Health,0.255
+51595,Emporia City,Virginia,Bad_Health,0.307
+51620,Franklin City,Virginia,Bad_Health,0.248
+51630,Fredericksburg City,Virginia,Bad_Health,0.14
+51650,Hampton City,Virginia,Bad_Health,0.19
+51670,Hopewell City,Virginia,Bad_Health,0.251
+51680,Lynchburg City,Virginia,Bad_Health,0.159
+51690,Martinsville City,Virginia,Bad_Health,0.24600000000000002
+51700,Newport News City,Virginia,Bad_Health,0.18899999999999997
+51710,Norfolk City,Virginia,Bad_Health,0.16699999999999998
+51730,Petersburg City,Virginia,Bad_Health,0.258
+51735,Poquoson City,Virginia,Bad_Health,0.125
+51740,Portsmouth City,Virginia,Bad_Health,0.207
+51760,Richmond City,Virginia,Bad_Health,0.17600000000000002
+51800,Suffolk City,Virginia,Bad_Health,0.16899999999999998
+51810,Virginia Beach City,Virginia,Bad_Health,0.13699999999999998
+51830,Williamsburg City,Virginia,Bad_Health,0.136
+51001,Accomack County,Virginia,Poor_Physical,0.14800000000000002
+51007,Amelia County,Virginia,Poor_Physical,0.136
+51011,Appomattox County,Virginia,Poor_Physical,0.131
+51025,Brunswick County,Virginia,Poor_Physical,0.146
+51029,Buckingham County,Virginia,Poor_Physical,0.147
+51031,Campbell County,Virginia,Poor_Physical,0.127
+51033,Caroline County,Virginia,Poor_Physical,0.11800000000000001
+51036,Charles City County,Virginia,Poor_Physical,0.147
+51037,Charlotte County,Virginia,Poor_Physical,0.14800000000000002
+51041,Chesterfield County,Virginia,Poor_Physical,0.096
+51049,Cumberland County,Virginia,Poor_Physical,0.125
+51053,Dinwiddie County,Virginia,Poor_Physical,0.124
+51057,Essex County,Virginia,Poor_Physical,0.149
+51073,Gloucester County,Virginia,Poor_Physical,0.11599999999999999
+51075,Goochland County,Virginia,Poor_Physical,0.1
+51081,Greensville County,Virginia,Poor_Physical,0.135
+51083,Halifax County,Virginia,Poor_Physical,0.149
+51085,Hanover County,Virginia,Poor_Physical,0.10099999999999999
+51087,Henrico County,Virginia,Poor_Physical,0.10099999999999999
+51089,Henry County,Virginia,Poor_Physical,0.157
+51093,Isle Of Wight County,Virginia,Poor_Physical,0.11599999999999999
+51095,James City County,Virginia,Poor_Physical,0.098
+51097,King And Queen County,Virginia,Poor_Physical,0.133
+51099,King George County,Virginia,Poor_Physical,0.10300000000000001
+51101,King William County,Virginia,Poor_Physical,0.11199999999999999
+51103,Lancaster County,Virginia,Poor_Physical,0.131
+51109,Louisa County,Virginia,Poor_Physical,0.124
+51111,Lunenburg County,Virginia,Poor_Physical,0.152
+51115,Mathews County,Virginia,Poor_Physical,0.12300000000000001
+51117,Mecklenburg County,Virginia,Poor_Physical,0.142
+51119,Middlesex County,Virginia,Poor_Physical,0.133
+51127,New Kent County,Virginia,Poor_Physical,0.10300000000000001
+51131,Northampton County,Virginia,Poor_Physical,0.139
+51133,Northumberland County,Virginia,Poor_Physical,0.136
+51135,Nottoway County,Virginia,Poor_Physical,0.141
+51143,Pittsylvania County,Virginia,Poor_Physical,0.147
+51145,Powhatan County,Virginia,Poor_Physical,0.106
+51147,Prince Edward County,Virginia,Poor_Physical,0.121
+51149,Prince George County,Virginia,Poor_Physical,0.11599999999999999
+51159,Richmond County,Virginia,Poor_Physical,0.141
+51175,Southampton County,Virginia,Poor_Physical,0.126
+51177,Spotsylvania County,Virginia,Poor_Physical,0.106
+51179,Stafford County,Virginia,Poor_Physical,0.091
+51181,Surry County,Virginia,Poor_Physical,0.141
+51183,Sussex County,Virginia,Poor_Physical,0.129
+51193,Westmoreland County,Virginia,Poor_Physical,0.146
+51199,York County,Virginia,Poor_Physical,0.091
+51550,Chesapeake City,Virginia,Poor_Physical,0.102
+51570,Colonial Heights City,Virginia,Poor_Physical,0.113
+51590,Danville City,Virginia,Poor_Physical,0.152
+51595,Emporia City,Virginia,Poor_Physical,0.174
+51620,Franklin City,Virginia,Poor_Physical,0.149
+51630,Fredericksburg City,Virginia,Poor_Physical,0.095
+51650,Hampton City,Virginia,Poor_Physical,0.11599999999999999
+51670,Hopewell City,Virginia,Poor_Physical,0.153
+51680,Lynchburg City,Virginia,Poor_Physical,0.105
+51690,Martinsville City,Virginia,Poor_Physical,0.15
+51700,Newport News City,Virginia,Poor_Physical,0.11800000000000001
+51710,Norfolk City,Virginia,Poor_Physical,0.106
+51730,Petersburg City,Virginia,Poor_Physical,0.14300000000000002
+51735,Poquoson City,Virginia,Poor_Physical,0.09699999999999999
+51740,Portsmouth City,Virginia,Poor_Physical,0.124
+51760,Richmond City,Virginia,Poor_Physical,0.11
+51800,Suffolk City,Virginia,Poor_Physical,0.113
+51810,Virginia Beach City,Virginia,Poor_Physical,0.096
+51830,Williamsburg City,Virginia,Poor_Physical,0.095
+51001,Accomack County,Virginia,Poor_Mental,0.154
+51007,Amelia County,Virginia,Poor_Mental,0.162
+51011,Appomattox County,Virginia,Poor_Mental,0.162
+51025,Brunswick County,Virginia,Poor_Mental,0.168
+51029,Buckingham County,Virginia,Poor_Mental,0.17
+51031,Campbell County,Virginia,Poor_Mental,0.161
+51033,Caroline County,Virginia,Poor_Mental,0.157
+51036,Charles City County,Virginia,Poor_Mental,0.155
+51037,Charlotte County,Virginia,Poor_Mental,0.16699999999999998
+51041,Chesterfield County,Virginia,Poor_Mental,0.147
+51049,Cumberland County,Virginia,Poor_Mental,0.15
+51053,Dinwiddie County,Virginia,Poor_Mental,0.159
+51057,Essex County,Virginia,Poor_Mental,0.166
+51073,Gloucester County,Virginia,Poor_Mental,0.147
+51075,Goochland County,Virginia,Poor_Mental,0.128
+51081,Greensville County,Virginia,Poor_Mental,0.166
+51083,Halifax County,Virginia,Poor_Mental,0.16699999999999998
+51085,Hanover County,Virginia,Poor_Mental,0.14
+51087,Henrico County,Virginia,Poor_Mental,0.147
+51089,Henry County,Virginia,Poor_Mental,0.16899999999999998
+51093,Isle Of Wight County,Virginia,Poor_Mental,0.146
+51095,James City County,Virginia,Poor_Mental,0.124
+51097,King And Queen County,Virginia,Poor_Mental,0.152
+51099,King George County,Virginia,Poor_Mental,0.15
+51101,King William County,Virginia,Poor_Mental,0.156
+51103,Lancaster County,Virginia,Poor_Mental,0.13
+51109,Louisa County,Virginia,Poor_Mental,0.151
+51111,Lunenburg County,Virginia,Poor_Mental,0.16699999999999998
+51115,Mathews County,Virginia,Poor_Mental,0.133
+51117,Mecklenburg County,Virginia,Poor_Mental,0.155
+51119,Middlesex County,Virginia,Poor_Mental,0.138
+51127,New Kent County,Virginia,Poor_Mental,0.14300000000000002
+51131,Northampton County,Virginia,Poor_Mental,0.14300000000000002
+51133,Northumberland County,Virginia,Poor_Mental,0.131
+51135,Nottoway County,Virginia,Poor_Mental,0.16899999999999998
+51143,Pittsylvania County,Virginia,Poor_Mental,0.162
+51145,Powhatan County,Virginia,Poor_Mental,0.142
+51147,Prince Edward County,Virginia,Poor_Mental,0.191
+51149,Prince George County,Virginia,Poor_Mental,0.16
+51159,Richmond County,Virginia,Poor_Mental,0.166
+51175,Southampton County,Virginia,Poor_Mental,0.15
+51177,Spotsylvania County,Virginia,Poor_Mental,0.149
+51179,Stafford County,Virginia,Poor_Mental,0.146
+51181,Surry County,Virginia,Poor_Mental,0.154
+51183,Sussex County,Virginia,Poor_Mental,0.163
+51193,Westmoreland County,Virginia,Poor_Mental,0.157
+51199,York County,Virginia,Poor_Mental,0.133
+51550,Chesapeake City,Virginia,Poor_Mental,0.151
+51570,Colonial Heights City,Virginia,Poor_Mental,0.152
+51590,Danville City,Virginia,Poor_Mental,0.177
+51595,Emporia City,Virginia,Poor_Mental,0.18899999999999997
+51620,Franklin City,Virginia,Poor_Mental,0.174
+51630,Fredericksburg City,Virginia,Poor_Mental,0.17300000000000001
+51650,Hampton City,Virginia,Poor_Mental,0.166
+51670,Hopewell City,Virginia,Poor_Mental,0.18899999999999997
+51680,Lynchburg City,Virginia,Poor_Mental,0.187
+51690,Martinsville City,Virginia,Poor_Mental,0.18100000000000002
+51700,Newport News City,Virginia,Poor_Mental,0.174
+51710,Norfolk City,Virginia,Poor_Mental,0.17300000000000001
+51730,Petersburg City,Virginia,Poor_Mental,0.18
+51735,Poquoson City,Virginia,Poor_Mental,0.134
+51740,Portsmouth City,Virginia,Poor_Mental,0.16699999999999998
+51760,Richmond City,Virginia,Poor_Mental,0.18600000000000003
+51800,Suffolk City,Virginia,Poor_Mental,0.16
+51810,Virginia Beach City,Virginia,Poor_Mental,0.14300000000000002
+51830,Williamsburg City,Virginia,Poor_Mental,0.179
+51001,Accomack County,Virginia,Depression,0.205
+51007,Amelia County,Virginia,Depression,0.22399999999999998
+51011,Appomattox County,Virginia,Depression,0.226
+51025,Brunswick County,Virginia,Depression,0.195
+51029,Buckingham County,Virginia,Depression,0.217
+51031,Campbell County,Virginia,Depression,0.221
+51033,Caroline County,Virginia,Depression,0.222
+51036,Charles City County,Virginia,Depression,0.198
+51037,Charlotte County,Virginia,Depression,0.221
+51041,Chesterfield County,Virginia,Depression,0.192
+51049,Cumberland County,Virginia,Depression,0.212
+51053,Dinwiddie County,Virginia,Depression,0.21100000000000002
+51057,Essex County,Virginia,Depression,0.21
+51073,Gloucester County,Virginia,Depression,0.22
+51075,Goochland County,Virginia,Depression,0.19899999999999998
+51081,Greensville County,Virginia,Depression,0.18600000000000003
+51083,Halifax County,Virginia,Depression,0.214
+51085,Hanover County,Virginia,Depression,0.20800000000000002
+51087,Henrico County,Virginia,Depression,0.18
+51089,Henry County,Virginia,Depression,0.235
+51093,Isle Of Wight County,Virginia,Depression,0.21100000000000002
+51095,James City County,Virginia,Depression,0.2
+51097,King And Queen County,Virginia,Depression,0.21100000000000002
+51099,King George County,Virginia,Depression,0.21100000000000002
+51101,King William County,Virginia,Depression,0.235
+51103,Lancaster County,Virginia,Depression,0.195
+51109,Louisa County,Virginia,Depression,0.21100000000000002
+51111,Lunenburg County,Virginia,Depression,0.212
+51115,Mathews County,Virginia,Depression,0.20199999999999999
+51117,Mecklenburg County,Virginia,Depression,0.201
+51119,Middlesex County,Virginia,Depression,0.21
+51127,New Kent County,Virginia,Depression,0.209
+51131,Northampton County,Virginia,Depression,0.207
+51133,Northumberland County,Virginia,Depression,0.193
+51135,Nottoway County,Virginia,Depression,0.209
+51143,Pittsylvania County,Virginia,Depression,0.217
+51145,Powhatan County,Virginia,Depression,0.21899999999999997
+51147,Prince Edward County,Virginia,Depression,0.23600000000000002
+51149,Prince George County,Virginia,Depression,0.20600000000000002
+51159,Richmond County,Virginia,Depression,0.21600000000000003
+51175,Southampton County,Virginia,Depression,0.201
+51177,Spotsylvania County,Virginia,Depression,0.214
+51179,Stafford County,Virginia,Depression,0.217
+51181,Surry County,Virginia,Depression,0.203
+51183,Sussex County,Virginia,Depression,0.19
+51193,Westmoreland County,Virginia,Depression,0.214
+51199,York County,Virginia,Depression,0.191
+51550,Chesapeake City,Virginia,Depression,0.20199999999999999
+51570,Colonial Heights City,Virginia,Depression,0.22
+51590,Danville City,Virginia,Depression,0.213
+51595,Emporia City,Virginia,Depression,0.21100000000000002
+51620,Franklin City,Virginia,Depression,0.209
+51630,Fredericksburg City,Virginia,Depression,0.231
+51650,Hampton City,Virginia,Depression,0.21
+51670,Hopewell City,Virginia,Depression,0.226
+51680,Lynchburg City,Virginia,Depression,0.24
+51690,Martinsville City,Virginia,Depression,0.223
+51700,Newport News City,Virginia,Depression,0.21100000000000002
+51710,Norfolk City,Virginia,Depression,0.20199999999999999
+51730,Petersburg City,Virginia,Depression,0.201
+51735,Poquoson City,Virginia,Depression,0.212
+51740,Portsmouth City,Virginia,Depression,0.20600000000000002
+51760,Richmond City,Virginia,Depression,0.22
+51800,Suffolk City,Virginia,Depression,0.21100000000000002
+51810,Virginia Beach City,Virginia,Depression,0.203
+51830,Williamsburg City,Virginia,Depression,0.23600000000000002
+51001,Accomack County,Virginia,Diabetes_DX,0.166
+51007,Amelia County,Virginia,Diabetes_DX,0.145
+51011,Appomattox County,Virginia,Diabetes_DX,0.133
+51025,Brunswick County,Virginia,Diabetes_DX,0.16899999999999998
+51029,Buckingham County,Virginia,Diabetes_DX,0.156
+51031,Campbell County,Virginia,Diabetes_DX,0.126
+51033,Caroline County,Virginia,Diabetes_DX,0.124
+51036,Charles City County,Virginia,Diabetes_DX,0.18
+51037,Charlotte County,Virginia,Diabetes_DX,0.162
+51041,Chesterfield County,Virginia,Diabetes_DX,0.106
+51049,Cumberland County,Virginia,Diabetes_DX,0.139
+51053,Dinwiddie County,Virginia,Diabetes_DX,0.134
+51057,Essex County,Virginia,Diabetes_DX,0.171
+51073,Gloucester County,Virginia,Diabetes_DX,0.115
+51075,Goochland County,Virginia,Diabetes_DX,0.11
+51081,Greensville County,Virginia,Diabetes_DX,0.154
+51083,Halifax County,Virginia,Diabetes_DX,0.171
+51085,Hanover County,Virginia,Diabetes_DX,0.1
+51087,Henrico County,Virginia,Diabetes_DX,0.11699999999999999
+51089,Henry County,Virginia,Diabetes_DX,0.17
+51093,Isle Of Wight County,Virginia,Diabetes_DX,0.128
+51095,James City County,Virginia,Diabetes_DX,0.114
+51097,King And Queen County,Virginia,Diabetes_DX,0.152
+51099,King George County,Virginia,Diabetes_DX,0.105
+51101,King William County,Virginia,Diabetes_DX,0.113
+51103,Lancaster County,Virginia,Diabetes_DX,0.159
+51109,Louisa County,Virginia,Diabetes_DX,0.129
+51111,Lunenburg County,Virginia,Diabetes_DX,0.17
+51115,Mathews County,Virginia,Diabetes_DX,0.14
+51117,Mecklenburg County,Virginia,Diabetes_DX,0.16699999999999998
+51119,Middlesex County,Virginia,Diabetes_DX,0.14800000000000002
+51127,New Kent County,Virginia,Diabetes_DX,0.10300000000000001
+51131,Northampton County,Virginia,Diabetes_DX,0.16399999999999998
+51133,Northumberland County,Virginia,Diabetes_DX,0.16
+51135,Nottoway County,Virginia,Diabetes_DX,0.155
+51143,Pittsylvania County,Virginia,Diabetes_DX,0.165
+51145,Powhatan County,Virginia,Diabetes_DX,0.105
+51147,Prince Edward County,Virginia,Diabetes_DX,0.124
+51149,Prince George County,Virginia,Diabetes_DX,0.121
+51159,Richmond County,Virginia,Diabetes_DX,0.147
+51175,Southampton County,Virginia,Diabetes_DX,0.14300000000000002
+51177,Spotsylvania County,Virginia,Diabetes_DX,0.106
+51179,Stafford County,Virginia,Diabetes_DX,0.094
+51181,Surry County,Virginia,Diabetes_DX,0.172
+51183,Sussex County,Virginia,Diabetes_DX,0.14400000000000002
+51193,Westmoreland County,Virginia,Diabetes_DX,0.161
+51199,York County,Virginia,Diabetes_DX,0.09699999999999999
+51550,Chesapeake City,Virginia,Diabetes_DX,0.115
+51570,Colonial Heights City,Virginia,Diabetes_DX,0.111
+51590,Danville City,Virginia,Diabetes_DX,0.17800000000000002
+51595,Emporia City,Virginia,Diabetes_DX,0.207
+51620,Franklin City,Virginia,Diabetes_DX,0.17600000000000002
+51630,Fredericksburg City,Virginia,Diabetes_DX,0.091
+51650,Hampton City,Virginia,Diabetes_DX,0.134
+51670,Hopewell City,Virginia,Diabetes_DX,0.162
+51680,Lynchburg City,Virginia,Diabetes_DX,0.10099999999999999
+51690,Martinsville City,Virginia,Diabetes_DX,0.172
+51700,Newport News City,Virginia,Diabetes_DX,0.132
+51710,Norfolk City,Virginia,Diabetes_DX,0.10800000000000001
+51730,Petersburg City,Virginia,Diabetes_DX,0.18600000000000003
+51735,Poquoson City,Virginia,Diabetes_DX,0.095
+51740,Portsmouth City,Virginia,Diabetes_DX,0.153
+51760,Richmond City,Virginia,Diabetes_DX,0.12
+51800,Suffolk City,Virginia,Diabetes_DX,0.122
+51810,Virginia Beach City,Virginia,Diabetes_DX,0.10300000000000001
+51830,Williamsburg City,Virginia,Diabetes_DX,0.09
+51001,Accomack County,Virginia,High_BP,0.455
+51007,Amelia County,Virginia,High_BP,0.41
+51011,Appomattox County,Virginia,High_BP,0.40299999999999997
+51025,Brunswick County,Virginia,High_BP,0.45299999999999996
+51029,Buckingham County,Virginia,High_BP,0.43799999999999994
+51031,Campbell County,Virginia,High_BP,0.37
+51033,Caroline County,Virginia,High_BP,0.374
+51036,Charles City County,Virginia,High_BP,0.479
+51037,Charlotte County,Virginia,High_BP,0.444
+51041,Chesterfield County,Virginia,High_BP,0.36
+51049,Cumberland County,Virginia,High_BP,0.408
+51053,Dinwiddie County,Virginia,High_BP,0.39899999999999997
+51057,Essex County,Virginia,High_BP,0.46299999999999997
+51073,Gloucester County,Virginia,High_BP,0.371
+51075,Goochland County,Virginia,High_BP,0.37
+51081,Greensville County,Virginia,High_BP,0.44
+51083,Halifax County,Virginia,High_BP,0.465
+51085,Hanover County,Virginia,High_BP,0.32799999999999996
+51087,Henrico County,Virginia,High_BP,0.371
+51089,Henry County,Virginia,High_BP,0.44299999999999995
+51093,Isle Of Wight County,Virginia,High_BP,0.386
+51095,James City County,Virginia,High_BP,0.374
+51097,King And Queen County,Virginia,High_BP,0.433
+51099,King George County,Virginia,High_BP,0.35200000000000004
+51101,King William County,Virginia,High_BP,0.366
+51103,Lancaster County,Virginia,High_BP,0.474
+51109,Louisa County,Virginia,High_BP,0.382
+51111,Lunenburg County,Virginia,High_BP,0.46
+51115,Mathews County,Virginia,High_BP,0.42200000000000004
+51117,Mecklenburg County,Virginia,High_BP,0.465
+51119,Middlesex County,Virginia,High_BP,0.46399999999999997
+51127,New Kent County,Virginia,High_BP,0.35700000000000004
+51131,Northampton County,Virginia,High_BP,0.451
+51133,Northumberland County,Virginia,High_BP,0.46799999999999997
+51135,Nottoway County,Virginia,High_BP,0.43
+51143,Pittsylvania County,Virginia,High_BP,0.446
+51145,Powhatan County,Virginia,High_BP,0.369
+51147,Prince Edward County,Virginia,High_BP,0.353
+51149,Prince George County,Virginia,High_BP,0.36700000000000005
+51159,Richmond County,Virginia,High_BP,0.414
+51175,Southampton County,Virginia,High_BP,0.435
+51177,Spotsylvania County,Virginia,High_BP,0.35100000000000003
+51179,Stafford County,Virginia,High_BP,0.326
+51181,Surry County,Virginia,High_BP,0.467
+51183,Sussex County,Virginia,High_BP,0.429
+51193,Westmoreland County,Virginia,High_BP,0.442
+51199,York County,Virginia,High_BP,0.324
+51550,Chesapeake City,Virginia,High_BP,0.34
+51570,Colonial Heights City,Virginia,High_BP,0.365
+51590,Danville City,Virginia,High_BP,0.467
+51595,Emporia City,Virginia,High_BP,0.49700000000000005
+51620,Franklin City,Virginia,High_BP,0.46
+51630,Fredericksburg City,Virginia,High_BP,0.29100000000000004
+51650,Hampton City,Virginia,High_BP,0.39399999999999996
+51670,Hopewell City,Virginia,High_BP,0.41700000000000004
+51680,Lynchburg City,Virginia,High_BP,0.322
+51690,Martinsville City,Virginia,High_BP,0.44799999999999995
+51700,Newport News City,Virginia,High_BP,0.39299999999999996
+51710,Norfolk City,Virginia,High_BP,0.312
+51730,Petersburg City,Virginia,High_BP,0.484
+51735,Poquoson City,Virginia,High_BP,0.332
+51740,Portsmouth City,Virginia,High_BP,0.41600000000000004
+51760,Richmond City,Virginia,High_BP,0.34299999999999997
+51800,Suffolk City,Virginia,High_BP,0.386
+51810,Virginia Beach City,Virginia,High_BP,0.306
+51830,Williamsburg City,Virginia,High_BP,0.28800000000000003
+51001,Accomack County,Virginia,BP_Medicine,0.843
+51007,Amelia County,Virginia,BP_Medicine,0.8220000000000001
+51011,Appomattox County,Virginia,BP_Medicine,0.809
+51025,Brunswick County,Virginia,BP_Medicine,0.8140000000000001
+51029,Buckingham County,Virginia,BP_Medicine,0.807
+51031,Campbell County,Virginia,BP_Medicine,0.816
+51033,Caroline County,Virginia,BP_Medicine,0.799
+51036,Charles City County,Virginia,BP_Medicine,0.843
+51037,Charlotte County,Virginia,BP_Medicine,0.828
+51041,Chesterfield County,Virginia,BP_Medicine,0.7829999999999999
+51049,Cumberland County,Virginia,BP_Medicine,0.826
+51053,Dinwiddie County,Virginia,BP_Medicine,0.804
+51057,Essex County,Virginia,BP_Medicine,0.8340000000000001
+51073,Gloucester County,Virginia,BP_Medicine,0.805
+51075,Goochland County,Virginia,BP_Medicine,0.818
+51081,Greensville County,Virginia,BP_Medicine,0.7809999999999999
+51083,Halifax County,Virginia,BP_Medicine,0.836
+51085,Hanover County,Virginia,BP_Medicine,0.802
+51087,Henrico County,Virginia,BP_Medicine,0.784
+51089,Henry County,Virginia,BP_Medicine,0.84
+51093,Isle Of Wight County,Virginia,BP_Medicine,0.813
+51095,James City County,Virginia,BP_Medicine,0.8240000000000001
+51097,King And Queen County,Virginia,BP_Medicine,0.83
+51099,King George County,Virginia,BP_Medicine,0.777
+51101,King William County,Virginia,BP_Medicine,0.7909999999999999
+51103,Lancaster County,Virginia,BP_Medicine,0.865
+51109,Louisa County,Virginia,BP_Medicine,0.8140000000000001
+51111,Lunenburg County,Virginia,BP_Medicine,0.8240000000000001
+51115,Mathews County,Virginia,BP_Medicine,0.848
+51117,Mecklenburg County,Virginia,BP_Medicine,0.8440000000000001
+51119,Middlesex County,Virginia,BP_Medicine,0.851
+51127,New Kent County,Virginia,BP_Medicine,0.787
+51131,Northampton County,Virginia,BP_Medicine,0.852
+51133,Northumberland County,Virginia,BP_Medicine,0.857
+51135,Nottoway County,Virginia,BP_Medicine,0.797
+51143,Pittsylvania County,Virginia,BP_Medicine,0.84
+51145,Powhatan County,Virginia,BP_Medicine,0.797
+51147,Prince Edward County,Virginia,BP_Medicine,0.778
+51149,Prince George County,Virginia,BP_Medicine,0.773
+51159,Richmond County,Virginia,BP_Medicine,0.794
+51175,Southampton County,Virginia,BP_Medicine,0.8240000000000001
+51177,Spotsylvania County,Virginia,BP_Medicine,0.78
+51179,Stafford County,Virginia,BP_Medicine,0.7440000000000001
+51181,Surry County,Virginia,BP_Medicine,0.84
+51183,Sussex County,Virginia,BP_Medicine,0.78
+51193,Westmoreland County,Virginia,BP_Medicine,0.8370000000000001
+51199,York County,Virginia,BP_Medicine,0.792
+51550,Chesapeake City,Virginia,BP_Medicine,0.7759999999999999
+51570,Colonial Heights City,Virginia,BP_Medicine,0.8
+51590,Danville City,Virginia,BP_Medicine,0.828
+51595,Emporia City,Virginia,BP_Medicine,0.833
+51620,Franklin City,Virginia,BP_Medicine,0.828
+51630,Fredericksburg City,Virginia,BP_Medicine,0.741
+51650,Hampton City,Virginia,BP_Medicine,0.7979999999999999
+51670,Hopewell City,Virginia,BP_Medicine,0.797
+51680,Lynchburg City,Virginia,BP_Medicine,0.7490000000000001
+51690,Martinsville City,Virginia,BP_Medicine,0.8190000000000001
+51700,Newport News City,Virginia,BP_Medicine,0.773
+51710,Norfolk City,Virginia,BP_Medicine,0.753
+51730,Petersburg City,Virginia,BP_Medicine,0.813
+51735,Poquoson City,Virginia,BP_Medicine,0.7929999999999999
+51740,Portsmouth City,Virginia,BP_Medicine,0.792
+51760,Richmond City,Virginia,BP_Medicine,0.765
+51800,Suffolk City,Virginia,BP_Medicine,0.795
+51810,Virginia Beach City,Virginia,BP_Medicine,0.792
+51830,Williamsburg City,Virginia,BP_Medicine,0.765
+51001,Accomack County,Virginia,CHD,0.08900000000000001
+51007,Amelia County,Virginia,CHD,0.076
+51011,Appomattox County,Virginia,CHD,0.07400000000000001
+51025,Brunswick County,Virginia,CHD,0.08
+51029,Buckingham County,Virginia,CHD,0.08
+51031,Campbell County,Virginia,CHD,0.07200000000000001
+51033,Caroline County,Virginia,CHD,0.062
+51036,Charles City County,Virginia,CHD,0.086
+51037,Charlotte County,Virginia,CHD,0.086
+51041,Chesterfield County,Virginia,CHD,0.051
+51049,Cumberland County,Virginia,CHD,0.07200000000000001
+51053,Dinwiddie County,Virginia,CHD,0.066
+51057,Essex County,Virginia,CHD,0.085
+51073,Gloucester County,Virginia,CHD,0.066
+51075,Goochland County,Virginia,CHD,0.062
+51081,Greensville County,Virginia,CHD,0.066
+51083,Halifax County,Virginia,CHD,0.087
+51085,Hanover County,Virginia,CHD,0.057
+51087,Henrico County,Virginia,CHD,0.052000000000000005
+51089,Henry County,Virginia,CHD,0.09300000000000001
+51093,Isle Of Wight County,Virginia,CHD,0.065
+51095,James City County,Virginia,CHD,0.066
+51097,King And Queen County,Virginia,CHD,0.079
+51099,King George County,Virginia,CHD,0.053
+51101,King William County,Virginia,CHD,0.059000000000000004
+51103,Lancaster County,Virginia,CHD,0.096
+51109,Louisa County,Virginia,CHD,0.071
+51111,Lunenburg County,Virginia,CHD,0.087
+51115,Mathews County,Virginia,CHD,0.083
+51117,Mecklenburg County,Virginia,CHD,0.087
+51119,Middlesex County,Virginia,CHD,0.091
+51127,New Kent County,Virginia,CHD,0.055999999999999994
+51131,Northampton County,Virginia,CHD,0.08800000000000001
+51133,Northumberland County,Virginia,CHD,0.098
+51135,Nottoway County,Virginia,CHD,0.076
+51143,Pittsylvania County,Virginia,CHD,0.086
+51145,Powhatan County,Virginia,CHD,0.06
+51147,Prince Edward County,Virginia,CHD,0.062
+51149,Prince George County,Virginia,CHD,0.057999999999999996
+51159,Richmond County,Virginia,CHD,0.079
+51175,Southampton County,Virginia,CHD,0.073
+51177,Spotsylvania County,Virginia,CHD,0.054000000000000006
+51179,Stafford County,Virginia,CHD,0.043
+51181,Surry County,Virginia,CHD,0.084
+51183,Sussex County,Virginia,CHD,0.066
+51193,Westmoreland County,Virginia,CHD,0.08900000000000001
+51199,York County,Virginia,CHD,0.052000000000000005
+51550,Chesapeake City,Virginia,CHD,0.05
+51570,Colonial Heights City,Virginia,CHD,0.062
+51590,Danville City,Virginia,CHD,0.083
+51595,Emporia City,Virginia,CHD,0.09300000000000001
+51620,Franklin City,Virginia,CHD,0.08
+51630,Fredericksburg City,Virginia,CHD,0.042
+51650,Hampton City,Virginia,CHD,0.057999999999999996
+51670,Hopewell City,Virginia,CHD,0.073
+51680,Lynchburg City,Virginia,CHD,0.05
+51690,Martinsville City,Virginia,CHD,0.077
+51700,Newport News City,Virginia,CHD,0.057
+51710,Norfolk City,Virginia,CHD,0.047
+51730,Petersburg City,Virginia,CHD,0.071
+51735,Poquoson City,Virginia,CHD,0.057
+51740,Portsmouth City,Virginia,CHD,0.06
+51760,Richmond City,Virginia,CHD,0.052000000000000005
+51800,Suffolk City,Virginia,CHD,0.055
+51810,Virginia Beach City,Virginia,CHD,0.049
+51830,Williamsburg City,Virginia,CHD,0.049
+51001,Accomack County,Virginia,Had_Stroke,0.049
+51007,Amelia County,Virginia,Had_Stroke,0.042
+51011,Appomattox County,Virginia,Had_Stroke,0.04
+51025,Brunswick County,Virginia,Had_Stroke,0.05
+51029,Buckingham County,Virginia,Had_Stroke,0.046
+51031,Campbell County,Virginia,Had_Stroke,0.038
+51033,Caroline County,Virginia,Had_Stroke,0.036000000000000004
+51036,Charles City County,Virginia,Had_Stroke,0.054000000000000006
+51037,Charlotte County,Virginia,Had_Stroke,0.048
+51041,Chesterfield County,Virginia,Had_Stroke,0.028999999999999998
+51049,Cumberland County,Virginia,Had_Stroke,0.040999999999999995
+51053,Dinwiddie County,Virginia,Had_Stroke,0.038
+51057,Essex County,Virginia,Had_Stroke,0.05
+51073,Gloucester County,Virginia,Had_Stroke,0.034
+51075,Goochland County,Virginia,Had_Stroke,0.032
+51081,Greensville County,Virginia,Had_Stroke,0.043
+51083,Halifax County,Virginia,Had_Stroke,0.051
+51085,Hanover County,Virginia,Had_Stroke,0.03
+51087,Henrico County,Virginia,Had_Stroke,0.031
+51089,Henry County,Virginia,Had_Stroke,0.051
+51093,Isle Of Wight County,Virginia,Had_Stroke,0.036000000000000004
+51095,James City County,Virginia,Had_Stroke,0.033
+51097,King And Queen County,Virginia,Had_Stroke,0.044000000000000004
+51099,King George County,Virginia,Had_Stroke,0.028999999999999998
+51101,King William County,Virginia,Had_Stroke,0.033
+51103,Lancaster County,Virginia,Had_Stroke,0.05
+51109,Louisa County,Virginia,Had_Stroke,0.038
+51111,Lunenburg County,Virginia,Had_Stroke,0.05
+51115,Mathews County,Virginia,Had_Stroke,0.040999999999999995
+51117,Mecklenburg County,Virginia,Had_Stroke,0.049
+51119,Middlesex County,Virginia,Had_Stroke,0.047
+51127,New Kent County,Virginia,Had_Stroke,0.03
+51131,Northampton County,Virginia,Had_Stroke,0.049
+51133,Northumberland County,Virginia,Had_Stroke,0.05
+51135,Nottoway County,Virginia,Had_Stroke,0.045
+51143,Pittsylvania County,Virginia,Had_Stroke,0.047
+51145,Powhatan County,Virginia,Had_Stroke,0.031
+51147,Prince Edward County,Virginia,Had_Stroke,0.036000000000000004
+51149,Prince George County,Virginia,Had_Stroke,0.034
+51159,Richmond County,Virginia,Had_Stroke,0.045
+51175,Southampton County,Virginia,Had_Stroke,0.042
+51177,Spotsylvania County,Virginia,Had_Stroke,0.03
+51179,Stafford County,Virginia,Had_Stroke,0.024
+51181,Surry County,Virginia,Had_Stroke,0.05
+51183,Sussex County,Virginia,Had_Stroke,0.043
+51193,Westmoreland County,Virginia,Had_Stroke,0.049
+51199,York County,Virginia,Had_Stroke,0.027999999999999997
+51550,Chesapeake City,Virginia,Had_Stroke,0.03
+51570,Colonial Heights City,Virginia,Had_Stroke,0.033
+51590,Danville City,Virginia,Had_Stroke,0.052000000000000005
+51595,Emporia City,Virginia,Had_Stroke,0.062
+51620,Franklin City,Virginia,Had_Stroke,0.051
+51630,Fredericksburg City,Virginia,Had_Stroke,0.025
+51650,Hampton City,Virginia,Had_Stroke,0.037000000000000005
+51670,Hopewell City,Virginia,Had_Stroke,0.045
+51680,Lynchburg City,Virginia,Had_Stroke,0.028999999999999998
+51690,Martinsville City,Virginia,Had_Stroke,0.047
+51700,Newport News City,Virginia,Had_Stroke,0.034
+51710,Norfolk City,Virginia,Had_Stroke,0.03
+51730,Petersburg City,Virginia,Had_Stroke,0.051
+51735,Poquoson City,Virginia,Had_Stroke,0.027999999999999997
+51740,Portsmouth City,Virginia,Had_Stroke,0.039
+51760,Richmond City,Virginia,Had_Stroke,0.033
+51800,Suffolk City,Virginia,Had_Stroke,0.034
+51810,Virginia Beach City,Virginia,Had_Stroke,0.027999999999999997
+51830,Williamsburg City,Virginia,Had_Stroke,0.026000000000000002
+51001,Accomack County,Virginia,Kidney_Disease,0.043
+51007,Amelia County,Virginia,Kidney_Disease,0.038
+51011,Appomattox County,Virginia,Kidney_Disease,0.037000000000000005
+51025,Brunswick County,Virginia,Kidney_Disease,0.042
+51029,Buckingham County,Virginia,Kidney_Disease,0.04
+51031,Campbell County,Virginia,Kidney_Disease,0.036000000000000004
+51033,Caroline County,Virginia,Kidney_Disease,0.033
+51036,Charles City County,Virginia,Kidney_Disease,0.046
+51037,Charlotte County,Virginia,Kidney_Disease,0.042
+51041,Chesterfield County,Virginia,Kidney_Disease,0.028999999999999998
+51049,Cumberland County,Virginia,Kidney_Disease,0.038
+51053,Dinwiddie County,Virginia,Kidney_Disease,0.035
+51057,Essex County,Virginia,Kidney_Disease,0.043
+51073,Gloucester County,Virginia,Kidney_Disease,0.033
+51075,Goochland County,Virginia,Kidney_Disease,0.033
+51081,Greensville County,Virginia,Kidney_Disease,0.036000000000000004
+51083,Halifax County,Virginia,Kidney_Disease,0.044000000000000004
+51085,Hanover County,Virginia,Kidney_Disease,0.03
+51087,Henrico County,Virginia,Kidney_Disease,0.03
+51089,Henry County,Virginia,Kidney_Disease,0.044000000000000004
+51093,Isle Of Wight County,Virginia,Kidney_Disease,0.034
+51095,James City County,Virginia,Kidney_Disease,0.034
+51097,King And Queen County,Virginia,Kidney_Disease,0.039
+51099,King George County,Virginia,Kidney_Disease,0.028999999999999998
+51101,King William County,Virginia,Kidney_Disease,0.031
+51103,Lancaster County,Virginia,Kidney_Disease,0.046
+51109,Louisa County,Virginia,Kidney_Disease,0.035
+51111,Lunenburg County,Virginia,Kidney_Disease,0.043
+51115,Mathews County,Virginia,Kidney_Disease,0.04
+51117,Mecklenburg County,Virginia,Kidney_Disease,0.044000000000000004
+51119,Middlesex County,Virginia,Kidney_Disease,0.044000000000000004
+51127,New Kent County,Virginia,Kidney_Disease,0.03
+51131,Northampton County,Virginia,Kidney_Disease,0.045
+51133,Northumberland County,Virginia,Kidney_Disease,0.046
+51135,Nottoway County,Virginia,Kidney_Disease,0.039
+51143,Pittsylvania County,Virginia,Kidney_Disease,0.042
+51145,Powhatan County,Virginia,Kidney_Disease,0.03
+51147,Prince Edward County,Virginia,Kidney_Disease,0.033
+51149,Prince George County,Virginia,Kidney_Disease,0.031
+51159,Richmond County,Virginia,Kidney_Disease,0.039
+51175,Southampton County,Virginia,Kidney_Disease,0.038
+51177,Spotsylvania County,Virginia,Kidney_Disease,0.028999999999999998
+51179,Stafford County,Virginia,Kidney_Disease,0.025
+51181,Surry County,Virginia,Kidney_Disease,0.044000000000000004
+51183,Sussex County,Virginia,Kidney_Disease,0.037000000000000005
+51193,Westmoreland County,Virginia,Kidney_Disease,0.043
+51199,York County,Virginia,Kidney_Disease,0.028999999999999998
+51550,Chesapeake City,Virginia,Kidney_Disease,0.03
+51570,Colonial Heights City,Virginia,Kidney_Disease,0.032
+51590,Danville City,Virginia,Kidney_Disease,0.044000000000000004
+51595,Emporia City,Virginia,Kidney_Disease,0.05
+51620,Franklin City,Virginia,Kidney_Disease,0.044000000000000004
+51630,Fredericksburg City,Virginia,Kidney_Disease,0.025
+51650,Hampton City,Virginia,Kidney_Disease,0.034
+51670,Hopewell City,Virginia,Kidney_Disease,0.039
+51680,Lynchburg City,Virginia,Kidney_Disease,0.027999999999999997
+51690,Martinsville City,Virginia,Kidney_Disease,0.040999999999999995
+51700,Newport News City,Virginia,Kidney_Disease,0.033
+51710,Norfolk City,Virginia,Kidney_Disease,0.027999999999999997
+51730,Petersburg City,Virginia,Kidney_Disease,0.043
+51735,Poquoson City,Virginia,Kidney_Disease,0.028999999999999998
+51740,Portsmouth City,Virginia,Kidney_Disease,0.035
+51760,Richmond City,Virginia,Kidney_Disease,0.031
+51800,Suffolk City,Virginia,Kidney_Disease,0.032
+51810,Virginia Beach City,Virginia,Kidney_Disease,0.027999999999999997
+51830,Williamsburg City,Virginia,Kidney_Disease,0.027000000000000003
+51001,Accomack County,Virginia,Asthma,0.11199999999999999
+51007,Amelia County,Virginia,Asthma,0.10800000000000001
+51011,Appomattox County,Virginia,Asthma,0.10800000000000001
+51025,Brunswick County,Virginia,Asthma,0.114
+51029,Buckingham County,Virginia,Asthma,0.111
+51031,Campbell County,Virginia,Asthma,0.106
+51033,Caroline County,Virginia,Asthma,0.106
+51036,Charles City County,Virginia,Asthma,0.114
+51037,Charlotte County,Virginia,Asthma,0.113
+51041,Chesterfield County,Virginia,Asthma,0.10300000000000001
+51049,Cumberland County,Virginia,Asthma,0.107
+51053,Dinwiddie County,Virginia,Asthma,0.107
+51057,Essex County,Virginia,Asthma,0.115
+51073,Gloucester County,Virginia,Asthma,0.102
+51075,Goochland County,Virginia,Asthma,0.09699999999999999
+51081,Greensville County,Virginia,Asthma,0.11
+51083,Halifax County,Virginia,Asthma,0.114
+51085,Hanover County,Virginia,Asthma,0.099
+51087,Henrico County,Virginia,Asthma,0.102
+51089,Henry County,Virginia,Asthma,0.114
+51093,Isle Of Wight County,Virginia,Asthma,0.10400000000000001
+51095,James City County,Virginia,Asthma,0.094
+51097,King And Queen County,Virginia,Asthma,0.10800000000000001
+51099,King George County,Virginia,Asthma,0.10099999999999999
+51101,King William County,Virginia,Asthma,0.105
+51103,Lancaster County,Virginia,Asthma,0.102
+51109,Louisa County,Virginia,Asthma,0.10400000000000001
+51111,Lunenburg County,Virginia,Asthma,0.11199999999999999
+51115,Mathews County,Virginia,Asthma,0.098
+51117,Mecklenburg County,Virginia,Asthma,0.111
+51119,Middlesex County,Virginia,Asthma,0.102
+51127,New Kent County,Virginia,Asthma,0.099
+51131,Northampton County,Virginia,Asthma,0.10800000000000001
+51133,Northumberland County,Virginia,Asthma,0.102
+51135,Nottoway County,Virginia,Asthma,0.111
+51143,Pittsylvania County,Virginia,Asthma,0.111
+51145,Powhatan County,Virginia,Asthma,0.1
+51147,Prince Edward County,Virginia,Asthma,0.11599999999999999
+51149,Prince George County,Virginia,Asthma,0.105
+51159,Richmond County,Virginia,Asthma,0.107
+51175,Southampton County,Virginia,Asthma,0.106
+51177,Spotsylvania County,Virginia,Asthma,0.10099999999999999
+51179,Stafford County,Virginia,Asthma,0.1
+51181,Surry County,Virginia,Asthma,0.11199999999999999
+51183,Sussex County,Virginia,Asthma,0.107
+51193,Westmoreland County,Virginia,Asthma,0.11
+51199,York County,Virginia,Asthma,0.09699999999999999
+51550,Chesapeake City,Virginia,Asthma,0.105
+51570,Colonial Heights City,Virginia,Asthma,0.10400000000000001
+51590,Danville City,Virginia,Asthma,0.12300000000000001
+51595,Emporia City,Virginia,Asthma,0.13
+51620,Franklin City,Virginia,Asthma,0.12300000000000001
+51630,Fredericksburg City,Virginia,Asthma,0.109
+51650,Hampton City,Virginia,Asthma,0.11599999999999999
+51670,Hopewell City,Virginia,Asthma,0.122
+51680,Lynchburg City,Virginia,Asthma,0.113
+51690,Martinsville City,Virginia,Asthma,0.122
+51700,Newport News City,Virginia,Asthma,0.11800000000000001
+51710,Norfolk City,Virginia,Asthma,0.111
+51730,Petersburg City,Virginia,Asthma,0.128
+51735,Poquoson City,Virginia,Asthma,0.094
+51740,Portsmouth City,Virginia,Asthma,0.12
+51760,Richmond City,Virginia,Asthma,0.11199999999999999
+51800,Suffolk City,Virginia,Asthma,0.11
+51810,Virginia Beach City,Virginia,Asthma,0.098
+51830,Williamsburg City,Virginia,Asthma,0.11
+51001,Accomack County,Virginia,COPD,0.106
+51007,Amelia County,Virginia,COPD,0.094
+51011,Appomattox County,Virginia,COPD,0.09
+51025,Brunswick County,Virginia,COPD,0.098
+51029,Buckingham County,Virginia,COPD,0.10300000000000001
+51031,Campbell County,Virginia,COPD,0.087
+51033,Caroline County,Virginia,COPD,0.07400000000000001
+51036,Charles City County,Virginia,COPD,0.1
+51037,Charlotte County,Virginia,COPD,0.105
+51041,Chesterfield County,Virginia,COPD,0.059000000000000004
+51049,Cumberland County,Virginia,COPD,0.083
+51053,Dinwiddie County,Virginia,COPD,0.08
+51057,Essex County,Virginia,COPD,0.105
+51073,Gloucester County,Virginia,COPD,0.078
+51075,Goochland County,Virginia,COPD,0.065
+51081,Greensville County,Virginia,COPD,0.084
+51083,Halifax County,Virginia,COPD,0.105
+51085,Hanover County,Virginia,COPD,0.064
+51087,Henrico County,Virginia,COPD,0.057
+51089,Henry County,Virginia,COPD,0.115
+51093,Isle Of Wight County,Virginia,COPD,0.075
+51095,James City County,Virginia,COPD,0.065
+51097,King And Queen County,Virginia,COPD,0.092
+51099,King George County,Virginia,COPD,0.063
+51101,King William County,Virginia,COPD,0.07200000000000001
+51103,Lancaster County,Virginia,COPD,0.09699999999999999
+51109,Louisa County,Virginia,COPD,0.084
+51111,Lunenburg County,Virginia,COPD,0.10800000000000001
+51115,Mathews County,Virginia,COPD,0.087
+51117,Mecklenburg County,Virginia,COPD,0.1
+51119,Middlesex County,Virginia,COPD,0.098
+51127,New Kent County,Virginia,COPD,0.066
+51131,Northampton County,Virginia,COPD,0.098
+51133,Northumberland County,Virginia,COPD,0.099
+51135,Nottoway County,Virginia,COPD,0.095
+51143,Pittsylvania County,Virginia,COPD,0.10400000000000001
+51145,Powhatan County,Virginia,COPD,0.069
+51147,Prince Edward County,Virginia,COPD,0.079
+51149,Prince George County,Virginia,COPD,0.071
+51159,Richmond County,Virginia,COPD,0.09699999999999999
+51175,Southampton County,Virginia,COPD,0.083
+51177,Spotsylvania County,Virginia,COPD,0.063
+51179,Stafford County,Virginia,COPD,0.049
+51181,Surry County,Virginia,COPD,0.09699999999999999
+51183,Sussex County,Virginia,COPD,0.081
+51193,Westmoreland County,Virginia,COPD,0.105
+51199,York County,Virginia,COPD,0.054000000000000006
+51550,Chesapeake City,Virginia,COPD,0.061
+51570,Colonial Heights City,Virginia,COPD,0.07200000000000001
+51590,Danville City,Virginia,COPD,0.105
+51595,Emporia City,Virginia,COPD,0.11900000000000001
+51620,Franklin City,Virginia,COPD,0.1
+51630,Fredericksburg City,Virginia,COPD,0.053
+51650,Hampton City,Virginia,COPD,0.069
+51670,Hopewell City,Virginia,COPD,0.1
+51680,Lynchburg City,Virginia,COPD,0.063
+51690,Martinsville City,Virginia,COPD,0.1
+51700,Newport News City,Virginia,COPD,0.07
+51710,Norfolk City,Virginia,COPD,0.06
+51730,Petersburg City,Virginia,COPD,0.08800000000000001
+51735,Poquoson City,Virginia,COPD,0.062
+51740,Portsmouth City,Virginia,COPD,0.076
+51760,Richmond City,Virginia,COPD,0.064
+51800,Suffolk City,Virginia,COPD,0.066
+51810,Virginia Beach City,Virginia,COPD,0.055
+51830,Williamsburg City,Virginia,COPD,0.057
+51001,Accomack County,Virginia,No_Teeth,0.142
+51007,Amelia County,Virginia,No_Teeth,0.122
+51011,Appomattox County,Virginia,No_Teeth,0.11199999999999999
+51025,Brunswick County,Virginia,No_Teeth,0.159
+51029,Buckingham County,Virginia,No_Teeth,0.146
+51031,Campbell County,Virginia,No_Teeth,0.111
+51033,Caroline County,Virginia,No_Teeth,0.10800000000000001
+51036,Charles City County,Virginia,No_Teeth,0.14300000000000002
+51037,Charlotte County,Virginia,No_Teeth,0.154
+51041,Chesterfield County,Virginia,No_Teeth,0.078
+51049,Cumberland County,Virginia,No_Teeth,0.11599999999999999
+51053,Dinwiddie County,Virginia,No_Teeth,0.122
+51057,Essex County,Virginia,No_Teeth,0.136
+51073,Gloucester County,Virginia,No_Teeth,0.09
+51075,Goochland County,Virginia,No_Teeth,0.07200000000000001
+51081,Greensville County,Virginia,No_Teeth,0.157
+51083,Halifax County,Virginia,No_Teeth,0.134
+51085,Hanover County,Virginia,No_Teeth,0.068
+51087,Henrico County,Virginia,No_Teeth,0.079
+51089,Henry County,Virginia,No_Teeth,0.14400000000000002
+51093,Isle Of Wight County,Virginia,No_Teeth,0.099
+51095,James City County,Virginia,No_Teeth,0.063
+51097,King And Queen County,Virginia,No_Teeth,0.102
+51099,King George County,Virginia,No_Teeth,0.083
+51101,King William County,Virginia,No_Teeth,0.094
+51103,Lancaster County,Virginia,No_Teeth,0.098
+51109,Louisa County,Virginia,No_Teeth,0.11
+51111,Lunenburg County,Virginia,No_Teeth,0.149
+51115,Mathews County,Virginia,No_Teeth,0.09
+51117,Mecklenburg County,Virginia,No_Teeth,0.129
+51119,Middlesex County,Virginia,No_Teeth,0.1
+51127,New Kent County,Virginia,No_Teeth,0.081
+51131,Northampton County,Virginia,No_Teeth,0.126
+51133,Northumberland County,Virginia,No_Teeth,0.09699999999999999
+51135,Nottoway County,Virginia,No_Teeth,0.13699999999999998
+51143,Pittsylvania County,Virginia,No_Teeth,0.126
+51145,Powhatan County,Virginia,No_Teeth,0.086
+51147,Prince Edward County,Virginia,No_Teeth,0.133
+51149,Prince George County,Virginia,No_Teeth,0.1
+51159,Richmond County,Virginia,No_Teeth,0.133
+51175,Southampton County,Virginia,No_Teeth,0.113
+51177,Spotsylvania County,Virginia,No_Teeth,0.083
+51179,Stafford County,Virginia,No_Teeth,0.075
+51181,Surry County,Virginia,No_Teeth,0.13
+51183,Sussex County,Virginia,No_Teeth,0.141
+51193,Westmoreland County,Virginia,No_Teeth,0.122
+51199,York County,Virginia,No_Teeth,0.063
+51550,Chesapeake City,Virginia,No_Teeth,0.08
+51570,Colonial Heights City,Virginia,No_Teeth,0.08900000000000001
+51590,Danville City,Virginia,No_Teeth,0.154
+51595,Emporia City,Virginia,No_Teeth,0.18899999999999997
+51620,Franklin City,Virginia,No_Teeth,0.13699999999999998
+51630,Fredericksburg City,Virginia,No_Teeth,0.087
+51650,Hampton City,Virginia,No_Teeth,0.109
+51670,Hopewell City,Virginia,No_Teeth,0.155
+51680,Lynchburg City,Virginia,No_Teeth,0.099
+51690,Martinsville City,Virginia,No_Teeth,0.14400000000000002
+51700,Newport News City,Virginia,No_Teeth,0.1
+51710,Norfolk City,Virginia,No_Teeth,0.11
+51730,Petersburg City,Virginia,No_Teeth,0.172
+51735,Poquoson City,Virginia,No_Teeth,0.066
+51740,Portsmouth City,Virginia,No_Teeth,0.114
+51760,Richmond City,Virginia,No_Teeth,0.11900000000000001
+51800,Suffolk City,Virginia,No_Teeth,0.094
+51810,Virginia Beach City,Virginia,No_Teeth,0.067
+51830,Williamsburg City,Virginia,No_Teeth,0.083
+51001,Accomack County,Virginia,Recent_Checkup,0.8029999999999999
+51007,Amelia County,Virginia,Recent_Checkup,0.767
+51011,Appomattox County,Virginia,Recent_Checkup,0.7759999999999999
+51025,Brunswick County,Virginia,Recent_Checkup,0.7929999999999999
+51029,Buckingham County,Virginia,Recent_Checkup,0.777
+51031,Campbell County,Virginia,Recent_Checkup,0.779
+51033,Caroline County,Virginia,Recent_Checkup,0.768
+51036,Charles City County,Virginia,Recent_Checkup,0.805
+51037,Charlotte County,Virginia,Recent_Checkup,0.7859999999999999
+51041,Chesterfield County,Virginia,Recent_Checkup,0.775
+51049,Cumberland County,Virginia,Recent_Checkup,0.7859999999999999
+51053,Dinwiddie County,Virginia,Recent_Checkup,0.779
+51057,Essex County,Virginia,Recent_Checkup,0.8009999999999999
+51073,Gloucester County,Virginia,Recent_Checkup,0.7759999999999999
+51075,Goochland County,Virginia,Recent_Checkup,0.7879999999999999
+51081,Greensville County,Virginia,Recent_Checkup,0.7659999999999999
+51083,Halifax County,Virginia,Recent_Checkup,0.8029999999999999
+51085,Hanover County,Virginia,Recent_Checkup,0.772
+51087,Henrico County,Virginia,Recent_Checkup,0.772
+51089,Henry County,Virginia,Recent_Checkup,0.7809999999999999
+51093,Isle Of Wight County,Virginia,Recent_Checkup,0.782
+51095,James City County,Virginia,Recent_Checkup,0.7829999999999999
+51097,King And Queen County,Virginia,Recent_Checkup,0.785
+51099,King George County,Virginia,Recent_Checkup,0.753
+51101,King William County,Virginia,Recent_Checkup,0.76
+51103,Lancaster County,Virginia,Recent_Checkup,0.8240000000000001
+51109,Louisa County,Virginia,Recent_Checkup,0.759
+51111,Lunenburg County,Virginia,Recent_Checkup,0.782
+51115,Mathews County,Virginia,Recent_Checkup,0.799
+51117,Mecklenburg County,Virginia,Recent_Checkup,0.807
+51119,Middlesex County,Virginia,Recent_Checkup,0.812
+51127,New Kent County,Virginia,Recent_Checkup,0.76
+51131,Northampton County,Virginia,Recent_Checkup,0.8140000000000001
+51133,Northumberland County,Virginia,Recent_Checkup,0.807
+51135,Nottoway County,Virginia,Recent_Checkup,0.7659999999999999
+51143,Pittsylvania County,Virginia,Recent_Checkup,0.7859999999999999
+51145,Powhatan County,Virginia,Recent_Checkup,0.763
+51147,Prince Edward County,Virginia,Recent_Checkup,0.752
+51149,Prince George County,Virginia,Recent_Checkup,0.778
+51159,Richmond County,Virginia,Recent_Checkup,0.752
+51175,Southampton County,Virginia,Recent_Checkup,0.792
+51177,Spotsylvania County,Virginia,Recent_Checkup,0.7659999999999999
+51179,Stafford County,Virginia,Recent_Checkup,0.757
+51181,Surry County,Virginia,Recent_Checkup,0.805
+51183,Sussex County,Virginia,Recent_Checkup,0.784
+51193,Westmoreland County,Virginia,Recent_Checkup,0.773
+51199,York County,Virginia,Recent_Checkup,0.7809999999999999
+51550,Chesapeake City,Virginia,Recent_Checkup,0.772
+51570,Colonial Heights City,Virginia,Recent_Checkup,0.775
+51590,Danville City,Virginia,Recent_Checkup,0.804
+51595,Emporia City,Virginia,Recent_Checkup,0.807
+51620,Franklin City,Virginia,Recent_Checkup,0.8
+51630,Fredericksburg City,Virginia,Recent_Checkup,0.735
+51650,Hampton City,Virginia,Recent_Checkup,0.785
+51670,Hopewell City,Virginia,Recent_Checkup,0.768
+51680,Lynchburg City,Virginia,Recent_Checkup,0.745
+51690,Martinsville City,Virginia,Recent_Checkup,0.795
+51700,Newport News City,Virginia,Recent_Checkup,0.7829999999999999
+51710,Norfolk City,Virginia,Recent_Checkup,0.764
+51730,Petersburg City,Virginia,Recent_Checkup,0.809
+51735,Poquoson City,Virginia,Recent_Checkup,0.753
+51740,Portsmouth City,Virginia,Recent_Checkup,0.795
+51760,Richmond City,Virginia,Recent_Checkup,0.743
+51800,Suffolk City,Virginia,Recent_Checkup,0.782
+51810,Virginia Beach City,Virginia,Recent_Checkup,0.7609999999999999
+51830,Williamsburg City,Virginia,Recent_Checkup,0.741
+51001,Accomack County,Virginia,Recent_Dentist,0.5920000000000001
+51007,Amelia County,Virginia,Recent_Dentist,0.632
+51011,Appomattox County,Virginia,Recent_Dentist,0.6509999999999999
+51025,Brunswick County,Virginia,Recent_Dentist,0.557
+51029,Buckingham County,Virginia,Recent_Dentist,0.5760000000000001
+51031,Campbell County,Virginia,Recent_Dentist,0.66
+51033,Caroline County,Virginia,Recent_Dentist,0.638
+51036,Charles City County,Virginia,Recent_Dentist,0.613
+51037,Charlotte County,Virginia,Recent_Dentist,0.5710000000000001
+51041,Chesterfield County,Virginia,Recent_Dentist,0.688
+51049,Cumberland County,Virginia,Recent_Dentist,0.6509999999999999
+51053,Dinwiddie County,Virginia,Recent_Dentist,0.628
+51057,Essex County,Virginia,Recent_Dentist,0.595
+51073,Gloucester County,Virginia,Recent_Dentist,0.6559999999999999
+51075,Goochland County,Virginia,Recent_Dentist,0.731
+51081,Greensville County,Virginia,Recent_Dentist,0.564
+51083,Halifax County,Virginia,Recent_Dentist,0.604
+51085,Hanover County,Virginia,Recent_Dentist,0.746
+51087,Henrico County,Virginia,Recent_Dentist,0.7390000000000001
+51089,Henry County,Virginia,Recent_Dentist,0.58
+51093,Isle Of Wight County,Virginia,Recent_Dentist,0.672
+51095,James City County,Virginia,Recent_Dentist,0.764
+51097,King And Queen County,Virginia,Recent_Dentist,0.67
+51099,King George County,Virginia,Recent_Dentist,0.701
+51101,King William County,Virginia,Recent_Dentist,0.652
+51103,Lancaster County,Virginia,Recent_Dentist,0.68
+51109,Louisa County,Virginia,Recent_Dentist,0.635
+51111,Lunenburg County,Virginia,Recent_Dentist,0.583
+51115,Mathews County,Virginia,Recent_Dentist,0.7040000000000001
+51117,Mecklenburg County,Virginia,Recent_Dentist,0.621
+51119,Middlesex County,Virginia,Recent_Dentist,0.649
+51127,New Kent County,Virginia,Recent_Dentist,0.7120000000000001
+51131,Northampton County,Virginia,Recent_Dentist,0.624
+51133,Northumberland County,Virginia,Recent_Dentist,0.677
+51135,Nottoway County,Virginia,Recent_Dentist,0.573
+51143,Pittsylvania County,Virginia,Recent_Dentist,0.618
+51145,Powhatan County,Virginia,Recent_Dentist,0.71
+51147,Prince Edward County,Virginia,Recent_Dentist,0.608
+51149,Prince George County,Virginia,Recent_Dentist,0.667
+51159,Richmond County,Virginia,Recent_Dentist,0.535
+51175,Southampton County,Virginia,Recent_Dentist,0.6509999999999999
+51177,Spotsylvania County,Virginia,Recent_Dentist,0.685
+51179,Stafford County,Virginia,Recent_Dentist,0.703
+51181,Surry County,Virginia,Recent_Dentist,0.619
+51183,Sussex County,Virginia,Recent_Dentist,0.5920000000000001
+51193,Westmoreland County,Virginia,Recent_Dentist,0.609
+51199,York County,Virginia,Recent_Dentist,0.755
+51550,Chesapeake City,Virginia,Recent_Dentist,0.705
+51570,Colonial Heights City,Virginia,Recent_Dentist,0.6729999999999999
+51590,Danville City,Virginia,Recent_Dentist,0.5589999999999999
+51595,Emporia City,Virginia,Recent_Dentist,0.504
+51620,Franklin City,Virginia,Recent_Dentist,0.594
+51630,Fredericksburg City,Virginia,Recent_Dentist,0.688
+51650,Hampton City,Virginia,Recent_Dentist,0.617
+51670,Hopewell City,Virginia,Recent_Dentist,0.54
+51680,Lynchburg City,Virginia,Recent_Dentist,0.653
+51690,Martinsville City,Virginia,Recent_Dentist,0.561
+51700,Newport News City,Virginia,Recent_Dentist,0.643
+51710,Norfolk City,Virginia,Recent_Dentist,0.61
+51730,Petersburg City,Virginia,Recent_Dentist,0.569
+51735,Poquoson City,Virginia,Recent_Dentist,0.732
+51740,Portsmouth City,Virginia,Recent_Dentist,0.594
+51760,Richmond City,Virginia,Recent_Dentist,0.61
+51800,Suffolk City,Virginia,Recent_Dentist,0.674
+51810,Virginia Beach City,Virginia,Recent_Dentist,0.705
+51830,Williamsburg City,Virginia,Recent_Dentist,0.7020000000000001

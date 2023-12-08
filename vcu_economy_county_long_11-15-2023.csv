@@ -1,0 +1,661 @@
+FIPS,County,State,measure,value
+51001,Accomack County,Virginia,Insurance Coverage,0.8772808695388166
+51007,Amelia County,Virginia,Insurance Coverage,0.9220117172639428
+51011,Appomattox County,Virginia,Insurance Coverage,0.9103935923909643
+51025,Brunswick County,Virginia,Insurance Coverage,0.9428447087836368
+51029,Buckingham County,Virginia,Insurance Coverage,0.8822897070679925
+51031,Campbell County,Virginia,Insurance Coverage,0.9197735807979099
+51033,Caroline County,Virginia,Insurance Coverage,0.9317882630083836
+51036,Charles City County,Virginia,Insurance Coverage,0.9217212512850639
+51037,Charlotte County,Virginia,Insurance Coverage,0.8979253835425384
+51041,Chesterfield County,Virginia,Insurance Coverage,0.9247491966729513
+51049,Cumberland County,Virginia,Insurance Coverage,0.9046437066914883
+51053,Dinwiddie County,Virginia,Insurance Coverage,0.9394444243236392
+51057,Essex County,Virginia,Insurance Coverage,0.8986126947928544
+51073,Gloucester County,Virginia,Insurance Coverage,0.9428834759710336
+51075,Goochland County,Virginia,Insurance Coverage,0.960717812218263
+51081,Greensville County,Virginia,Insurance Coverage,0.8944358393899678
+51083,Halifax County,Virginia,Insurance Coverage,0.9222169078082028
+51085,Hanover County,Virginia,Insurance Coverage,0.9511190014073754
+51087,Henrico County,Virginia,Insurance Coverage,0.9307394272111157
+51089,Henry County,Virginia,Insurance Coverage,0.9110686871097323
+51093,Isle Of Wight County,Virginia,Insurance Coverage,0.937428836224017
+51095,James City County,Virginia,Insurance Coverage,0.9481250984717189
+51097,King And Queen County,Virginia,Insurance Coverage,0.947085201793722
+51099,King George County,Virginia,Insurance Coverage,0.9526226734348562
+51101,King William County,Virginia,Insurance Coverage,0.9461688237315313
+51103,Lancaster County,Virginia,Insurance Coverage,0.9215338682590035
+51109,Louisa County,Virginia,Insurance Coverage,0.9221508394968417
+51111,Lunenburg County,Virginia,Insurance Coverage,0.9045984280422802
+51115,Mathews County,Virginia,Insurance Coverage,0.8981547196593329
+51117,Mecklenburg County,Virginia,Insurance Coverage,0.91758446575621
+51119,Middlesex County,Virginia,Insurance Coverage,0.9339168911119662
+51127,New Kent County,Virginia,Insurance Coverage,0.9561580882352941
+51131,Northampton County,Virginia,Insurance Coverage,0.8922359990014147
+51133,Northumberland County,Virginia,Insurance Coverage,0.9178437108232345
+51135,Nottoway County,Virginia,Insurance Coverage,0.8662940670679278
+51143,Pittsylvania County,Virginia,Insurance Coverage,0.9235379037131538
+51145,Powhatan County,Virginia,Insurance Coverage,0.9511819484240688
+51147,Prince Edward County,Virginia,Insurance Coverage,0.9173722627737226
+51149,Prince George County,Virginia,Insurance Coverage,0.9485168204165055
+51159,Richmond County,Virginia,Insurance Coverage,0.9392684610075914
+51175,Southampton County,Virginia,Insurance Coverage,0.9455528846153847
+51177,Spotsylvania County,Virginia,Insurance Coverage,0.9238639586378411
+51179,Stafford County,Virginia,Insurance Coverage,0.9283332883405772
+51181,Surry County,Virginia,Insurance Coverage,0.9093268203327737
+51183,Sussex County,Virginia,Insurance Coverage,0.9083888712578018
+51193,Westmoreland County,Virginia,Insurance Coverage,0.8901165681454063
+51199,York County,Virginia,Insurance Coverage,0.9638133725202057
+51550,Chesapeake City,Virginia,Insurance Coverage,0.9326357569640522
+51570,Colonial Heights City,Virginia,Insurance Coverage,0.9215938303341902
+51590,Danville City,Virginia,Insurance Coverage,0.9056690106926115
+51595,Emporia City,Virginia,Insurance Coverage,0.9259524235378287
+51620,Franklin City,Virginia,Insurance Coverage,0.9564737616478666
+51630,Fredericksburg City,Virginia,Insurance Coverage,0.8986421124287916
+51650,Hampton City,Virginia,Insurance Coverage,0.9241085479599278
+51670,Hopewell City,Virginia,Insurance Coverage,0.9226348364279399
+51680,Lynchburg City,Virginia,Insurance Coverage,0.9242833335486454
+51690,Martinsville City,Virginia,Insurance Coverage,0.9008409785932722
+51700,Newport News City,Virginia,Insurance Coverage,0.903339715442028
+51710,Norfolk City,Virginia,Insurance Coverage,0.8921032811262818
+51730,Petersburg City,Virginia,Insurance Coverage,0.8915371757568253
+51735,Poquoson City,Virginia,Insurance Coverage,0.9706749672346002
+51740,Portsmouth City,Virginia,Insurance Coverage,0.9081201261719092
+51760,Richmond City,Virginia,Insurance Coverage,0.893228455091537
+51800,Suffolk City,Virginia,Insurance Coverage,0.9356142805212544
+51810,Virginia Beach City,Virginia,Insurance Coverage,0.9287650171294544
+51830,Williamsburg City,Virginia,Insurance Coverage,0.9325902335456475
+51001,Accomack County,Virginia,Medicaid Enrollment,0.21477365880316968
+51007,Amelia County,Virginia,Medicaid Enrollment,0.15377006771665525
+51011,Appomattox County,Virginia,Medicaid Enrollment,0.21131343470371067
+51025,Brunswick County,Virginia,Medicaid Enrollment,0.2558932327554943
+51029,Buckingham County,Virginia,Medicaid Enrollment,0.2429454447729105
+51031,Campbell County,Virginia,Medicaid Enrollment,0.15515520963733015
+51033,Caroline County,Virginia,Medicaid Enrollment,0.13985311439063258
+51036,Charles City County,Virginia,Medicaid Enrollment,0.1658099574093112
+51037,Charlotte County,Virginia,Medicaid Enrollment,0.23692468619246862
+51041,Chesterfield County,Virginia,Medicaid Enrollment,0.11824245769050827
+51049,Cumberland County,Virginia,Medicaid Enrollment,0.1165580721894715
+51053,Dinwiddie County,Virginia,Medicaid Enrollment,0.17304697403208866
+51057,Essex County,Virginia,Medicaid Enrollment,0.26586849106803495
+51073,Gloucester County,Virginia,Medicaid Enrollment,0.13050691244239632
+51075,Goochland County,Virginia,Medicaid Enrollment,0.062164598806508396
+51081,Greensville County,Virginia,Medicaid Enrollment,0.2689145716668652
+51083,Halifax County,Virginia,Medicaid Enrollment,0.25179361473155565
+51085,Hanover County,Virginia,Medicaid Enrollment,0.08916136984537268
+51087,Henrico County,Virginia,Medicaid Enrollment,0.12973680375057692
+51089,Henry County,Virginia,Medicaid Enrollment,0.2769160402497713
+51093,Isle Of Wight County,Virginia,Medicaid Enrollment,0.11320005295908911
+51095,James City County,Virginia,Medicaid Enrollment,0.08440995746021743
+51097,King And Queen County,Virginia,Medicaid Enrollment,0.18684603886397608
+51099,King George County,Virginia,Medicaid Enrollment,0.11659744654668512
+51101,King William County,Virginia,Medicaid Enrollment,0.12409804146145917
+51103,Lancaster County,Virginia,Medicaid Enrollment,0.19677178578092927
+51109,Louisa County,Virginia,Medicaid Enrollment,0.17343302920693193
+51111,Lunenburg County,Virginia,Medicaid Enrollment,0.20616135152226941
+51115,Mathews County,Virginia,Medicaid Enrollment,0.14229950319375442
+51117,Mecklenburg County,Virginia,Medicaid Enrollment,0.2024467111728625
+51119,Middlesex County,Virginia,Medicaid Enrollment,0.20623316660253943
+51127,New Kent County,Virginia,Medicaid Enrollment,0.05569852941176471
+51131,Northampton County,Virginia,Medicaid Enrollment,0.2055421486227844
+51133,Northumberland County,Virginia,Medicaid Enrollment,0.1625574592561638
+51135,Nottoway County,Virginia,Medicaid Enrollment,0.22965032960733733
+51143,Pittsylvania County,Virginia,Medicaid Enrollment,0.21080373329752233
+51145,Powhatan County,Virginia,Medicaid Enrollment,0.07815186246418337
+51147,Prince Edward County,Virginia,Medicaid Enrollment,0.18340632603406326
+51149,Prince George County,Virginia,Medicaid Enrollment,0.15041705794619675
+51159,Richmond County,Virginia,Medicaid Enrollment,0.18398895790200137
+51175,Southampton County,Virginia,Medicaid Enrollment,0.19615384615384615
+51177,Spotsylvania County,Virginia,Medicaid Enrollment,0.13271813666673937
+51179,Stafford County,Virginia,Medicaid Enrollment,0.08088572739788893
+51181,Surry County,Virginia,Medicaid Enrollment,0.1758510151121966
+51183,Sussex County,Virginia,Medicaid Enrollment,0.22246905744208187
+51193,Westmoreland County,Virginia,Medicaid Enrollment,0.20219877354842275
+51199,York County,Virginia,Medicaid Enrollment,0.0669085231447465
+51550,Chesapeake City,Virginia,Medicaid Enrollment,0.1197122816879815
+51570,Colonial Heights City,Virginia,Medicaid Enrollment,0.166648038448642
+51590,Danville City,Virginia,Medicaid Enrollment,0.299055967633176
+51595,Emporia City,Virginia,Medicaid Enrollment,0.4263995707386872
+51620,Franklin City,Virginia,Medicaid Enrollment,0.3624325649828347
+51630,Fredericksburg City,Virginia,Medicaid Enrollment,0.15083658772526962
+51650,Hampton City,Virginia,Medicaid Enrollment,0.19662994664721914
+51670,Hopewell City,Virginia,Medicaid Enrollment,0.34213085764809903
+51680,Lynchburg City,Virginia,Medicaid Enrollment,0.19817329182115312
+51690,Martinsville City,Virginia,Medicaid Enrollment,0.3232415902140673
+51700,Newport News City,Virginia,Medicaid Enrollment,0.20820196507801841
+51710,Norfolk City,Virginia,Medicaid Enrollment,0.21319113188235067
+51730,Petersburg City,Virginia,Medicaid Enrollment,0.31588559400730515
+51735,Poquoson City,Virginia,Medicaid Enrollment,0.07019986893840105
+51740,Portsmouth City,Virginia,Medicaid Enrollment,0.2530228686585473
+51760,Richmond City,Virginia,Medicaid Enrollment,0.21662941279233838
+51800,Suffolk City,Virginia,Medicaid Enrollment,0.1629746312554389
+51810,Virginia Beach City,Virginia,Medicaid Enrollment,0.10484749706813921
+51830,Williamsburg City,Virginia,Medicaid Enrollment,0.09375
+51001,Accomack County,Virginia,Gini Coefficient,0.4533
+51007,Amelia County,Virginia,Gini Coefficient,0.4323
+51011,Appomattox County,Virginia,Gini Coefficient,0.4298
+51025,Brunswick County,Virginia,Gini Coefficient,0.4352
+51029,Buckingham County,Virginia,Gini Coefficient,0.4387
+51031,Campbell County,Virginia,Gini Coefficient,0.42
+51033,Caroline County,Virginia,Gini Coefficient,0.4235
+51036,Charles City County,Virginia,Gini Coefficient,0.5194
+51037,Charlotte County,Virginia,Gini Coefficient,0.4747
+51041,Chesterfield County,Virginia,Gini Coefficient,0.4176
+51049,Cumberland County,Virginia,Gini Coefficient,0.4354
+51053,Dinwiddie County,Virginia,Gini Coefficient,0.4337
+51057,Essex County,Virginia,Gini Coefficient,0.4254
+51073,Gloucester County,Virginia,Gini Coefficient,0.3887
+51075,Goochland County,Virginia,Gini Coefficient,0.4727
+51081,Greensville County,Virginia,Gini Coefficient,0.4489
+51083,Halifax County,Virginia,Gini Coefficient,0.4541
+51085,Hanover County,Virginia,Gini Coefficient,0.4176
+51087,Henrico County,Virginia,Gini Coefficient,0.4607
+51089,Henry County,Virginia,Gini Coefficient,0.4387
+51093,Isle Of Wight County,Virginia,Gini Coefficient,0.4395
+51095,James City County,Virginia,Gini Coefficient,0.4209
+51097,King And Queen County,Virginia,Gini Coefficient,0.4343
+51099,King George County,Virginia,Gini Coefficient,0.3751
+51101,King William County,Virginia,Gini Coefficient,0.3758
+51103,Lancaster County,Virginia,Gini Coefficient,0.5056
+51109,Louisa County,Virginia,Gini Coefficient,0.4519
+51111,Lunenburg County,Virginia,Gini Coefficient,0.406
+51115,Mathews County,Virginia,Gini Coefficient,0.4422
+51117,Mecklenburg County,Virginia,Gini Coefficient,0.4925
+51119,Middlesex County,Virginia,Gini Coefficient,0.4237
+51127,New Kent County,Virginia,Gini Coefficient,0.3853
+51131,Northampton County,Virginia,Gini Coefficient,0.4956
+51133,Northumberland County,Virginia,Gini Coefficient,0.5062
+51135,Nottoway County,Virginia,Gini Coefficient,0.4868
+51143,Pittsylvania County,Virginia,Gini Coefficient,0.4451
+51145,Powhatan County,Virginia,Gini Coefficient,0.3647
+51147,Prince Edward County,Virginia,Gini Coefficient,0.4617
+51149,Prince George County,Virginia,Gini Coefficient,0.3815
+51159,Richmond County,Virginia,Gini Coefficient,0.423
+51175,Southampton County,Virginia,Gini Coefficient,0.3975
+51177,Spotsylvania County,Virginia,Gini Coefficient,0.3982
+51179,Stafford County,Virginia,Gini Coefficient,0.3743
+51181,Surry County,Virginia,Gini Coefficient,0.4298
+51183,Sussex County,Virginia,Gini Coefficient,0.3984
+51193,Westmoreland County,Virginia,Gini Coefficient,0.4894
+51199,York County,Virginia,Gini Coefficient,0.3789
+51550,Chesapeake City,Virginia,Gini Coefficient,0.4093
+51570,Colonial Heights City,Virginia,Gini Coefficient,0.4136
+51590,Danville City,Virginia,Gini Coefficient,0.49
+51595,Emporia City,Virginia,Gini Coefficient,0.4377
+51620,Franklin City,Virginia,Gini Coefficient,0.4161
+51630,Fredericksburg City,Virginia,Gini Coefficient,0.4614
+51650,Hampton City,Virginia,Gini Coefficient,0.4443
+51670,Hopewell City,Virginia,Gini Coefficient,0.444
+51680,Lynchburg City,Virginia,Gini Coefficient,0.4448
+51690,Martinsville City,Virginia,Gini Coefficient,0.4797
+51700,Newport News City,Virginia,Gini Coefficient,0.4572
+51710,Norfolk City,Virginia,Gini Coefficient,0.4759
+51730,Petersburg City,Virginia,Gini Coefficient,0.4475
+51735,Poquoson City,Virginia,Gini Coefficient,0.3423
+51740,Portsmouth City,Virginia,Gini Coefficient,0.4546
+51760,Richmond City,Virginia,Gini Coefficient,0.5236
+51800,Suffolk City,Virginia,Gini Coefficient,0.4543
+51810,Virginia Beach City,Virginia,Gini Coefficient,0.4275
+51830,Williamsburg City,Virginia,Gini Coefficient,0.5024
+51001,Accomack County,Virginia,Household Income,50601.0
+51007,Amelia County,Virginia,Household Income,57420.0
+51011,Appomattox County,Virginia,Household Income,55268.0
+51025,Brunswick County,Virginia,Household Income,49597.0
+51029,Buckingham County,Virginia,Household Income,49841.0
+51031,Campbell County,Virginia,Household Income,53918.0
+51033,Caroline County,Virginia,Household Income,76528.0
+51036,Charles City County,Virginia,Household Income,59543.0
+51037,Charlotte County,Virginia,Household Income,45567.0
+51041,Chesterfield County,Virginia,Household Income,88315.0
+51049,Cumberland County,Virginia,Household Income,57568.0
+51053,Dinwiddie County,Virginia,Household Income,68918.0
+51057,Essex County,Virginia,Household Income,54375.0
+51073,Gloucester County,Virginia,Household Income,77733.0
+51075,Goochland County,Virginia,Household Income,100517.0
+51081,Greensville County,Virginia,Household Income,53063.0
+51083,Halifax County,Virginia,Household Income,45962.0
+51085,Hanover County,Virginia,Household Income,96911.0
+51087,Henrico County,Virginia,Household Income,76345.0
+51089,Henry County,Virginia,Household Income,41103.0
+51093,Isle Of Wight County,Virginia,Household Income,84673.0
+51095,James City County,Virginia,Household Income,94907.0
+51097,King And Queen County,Virginia,Household Income,61672.0
+51099,King George County,Virginia,Household Income,101599.0
+51101,King William County,Virginia,Household Income,74592.0
+51103,Lancaster County,Virginia,Household Income,64460.0
+51109,Louisa County,Virginia,Household Income,70974.0
+51111,Lunenburg County,Virginia,Household Income,47269.0
+51115,Mathews County,Virginia,Household Income,73229.0
+51117,Mecklenburg County,Virginia,Household Income,46378.0
+51119,Middlesex County,Virginia,Household Income,63782.0
+51127,New Kent County,Virginia,Household Income,101628.0
+51131,Northampton County,Virginia,Household Income,50347.0
+51133,Northumberland County,Virginia,Household Income,61291.0
+51135,Nottoway County,Virginia,Household Income,54614.0
+51143,Pittsylvania County,Virginia,Household Income,49486.0
+51145,Powhatan County,Virginia,Household Income,101395.0
+51147,Prince Edward County,Virginia,Household Income,49019.0
+51149,Prince George County,Virginia,Household Income,78895.0
+51159,Richmond County,Virginia,Household Income,57697.0
+51175,Southampton County,Virginia,Household Income,65079.0
+51177,Spotsylvania County,Virginia,Household Income,98973.0
+51179,Stafford County,Virginia,Household Income,119818.0
+51181,Surry County,Virginia,Household Income,61105.0
+51183,Sussex County,Virginia,Household Income,56968.0
+51193,Westmoreland County,Virginia,Household Income,53113.0
+51199,York County,Virginia,Household Income,96144.0
+51550,Chesapeake City,Virginia,Household Income,85563.0
+51570,Colonial Heights City,Virginia,Household Income,65570.0
+51590,Danville City,Virginia,Household Income,38904.0
+51595,Emporia City,Virginia,Household Income,36111.0
+51620,Franklin City,Virginia,Household Income,49424.0
+51630,Fredericksburg City,Virginia,Household Income,72293.0
+51650,Hampton City,Virginia,Household Income,59380.0
+51670,Hopewell City,Virginia,Household Income,44209.0
+51680,Lynchburg City,Virginia,Household Income,54015.0
+51690,Martinsville City,Virginia,Household Income,36832.0
+51700,Newport News City,Virginia,Household Income,57463.0
+51710,Norfolk City,Virginia,Household Income,56244.0
+51730,Petersburg City,Virginia,Household Income,44890.0
+51735,Poquoson City,Virginia,Household Income,112026.0
+51740,Portsmouth City,Virginia,Household Income,54020.0
+51760,Richmond City,Virginia,Household Income,54795.0
+51800,Suffolk City,Virginia,Household Income,81883.0
+51810,Virginia Beach City,Virginia,Household Income,81810.0
+51830,Williamsburg City,Virginia,Household Income,65297.0
+51001,Accomack County,Virginia,Annual Labor Force Participation Rate,0.5499483165977554
+51007,Amelia County,Virginia,Annual Labor Force Participation Rate,0.6273615635179153
+51011,Appomattox County,Virginia,Annual Labor Force Participation Rate,0.6051289973737062
+51025,Brunswick County,Virginia,Annual Labor Force Participation Rate,0.4963200466370327
+51029,Buckingham County,Virginia,Annual Labor Force Participation Rate,0.48998152621855906
+51031,Campbell County,Virginia,Annual Labor Force Participation Rate,0.5976223837463877
+51033,Caroline County,Virginia,Annual Labor Force Participation Rate,0.6542323005019907
+51036,Charles City County,Virginia,Annual Labor Force Participation Rate,0.5742524075012672
+51037,Charlotte County,Virginia,Annual Labor Force Participation Rate,0.5296591889559965
+51041,Chesterfield County,Virginia,Annual Labor Force Participation Rate,0.6794462156182182
+51049,Cumberland County,Virginia,Annual Labor Force Participation Rate,0.6416234887737479
+51053,Dinwiddie County,Virginia,Annual Labor Force Participation Rate,0.6137436614792796
+51057,Essex County,Virginia,Annual Labor Force Participation Rate,0.5607276014009717
+51073,Gloucester County,Virginia,Annual Labor Force Participation Rate,0.618713112650757
+51075,Goochland County,Virginia,Annual Labor Force Participation Rate,0.5711300121506683
+51081,Greensville County,Virginia,Annual Labor Force Participation Rate,0.39983828582979586
+51083,Halifax County,Virginia,Annual Labor Force Participation Rate,0.5172045689072341
+51085,Hanover County,Virginia,Annual Labor Force Participation Rate,0.6715634599471781
+51087,Henrico County,Virginia,Annual Labor Force Participation Rate,0.6910639231575324
+51089,Henry County,Virginia,Annual Labor Force Participation Rate,0.5141246985218616
+51093,Isle Of Wight County,Virginia,Annual Labor Force Participation Rate,0.6459143968871596
+51095,James City County,Virginia,Annual Labor Force Participation Rate,0.5798969480776853
+51097,King And Queen County,Virginia,Annual Labor Force Participation Rate,0.618752215526409
+51099,King George County,Virginia,Annual Labor Force Participation Rate,0.6766801940017817
+51101,King William County,Virginia,Annual Labor Force Participation Rate,0.6821249102656138
+51103,Lancaster County,Virginia,Annual Labor Force Participation Rate,0.4748193795155121
+51109,Louisa County,Virginia,Annual Labor Force Participation Rate,0.6064889385621774
+51111,Lunenburg County,Virginia,Annual Labor Force Participation Rate,0.49984679807986926
+51115,Mathews County,Virginia,Annual Labor Force Participation Rate,0.487788513150832
+51117,Mecklenburg County,Virginia,Annual Labor Force Participation Rate,0.5147215745168557
+51119,Middlesex County,Virginia,Annual Labor Force Participation Rate,0.5330219422116012
+51127,New Kent County,Virginia,Annual Labor Force Participation Rate,0.6471580092466684
+51131,Northampton County,Virginia,Annual Labor Force Participation Rate,0.5175620856831898
+51133,Northumberland County,Virginia,Annual Labor Force Participation Rate,0.4229301793208699
+51135,Nottoway County,Virginia,Annual Labor Force Participation Rate,0.47531006856174407
+51143,Pittsylvania County,Virginia,Annual Labor Force Participation Rate,0.5448010370428565
+51145,Powhatan County,Virginia,Annual Labor Force Participation Rate,0.5958923010210115
+51147,Prince Edward County,Virginia,Annual Labor Force Participation Rate,0.4450167259597515
+51149,Prince George County,Virginia,Annual Labor Force Participation Rate,0.5460016927369048
+51159,Richmond County,Virginia,Annual Labor Force Participation Rate,0.4252238020010532
+51175,Southampton County,Virginia,Annual Labor Force Participation Rate,0.5579681007907787
+51177,Spotsylvania County,Virginia,Annual Labor Force Participation Rate,0.681091636059324
+51179,Stafford County,Virginia,Annual Labor Force Participation Rate,0.683735385526121
+51181,Surry County,Virginia,Annual Labor Force Participation Rate,0.6154402458868198
+51183,Sussex County,Virginia,Annual Labor Force Participation Rate,0.5122237642788513
+51193,Westmoreland County,Virginia,Annual Labor Force Participation Rate,0.5344770484202159
+51199,York County,Virginia,Annual Labor Force Participation Rate,0.6464501123506918
+51550,Chesapeake City,Virginia,Annual Labor Force Participation Rate,0.654777763994585
+51570,Colonial Heights City,Virginia,Annual Labor Force Participation Rate,0.6434173669467788
+51590,Danville City,Virginia,Annual Labor Force Participation Rate,0.5286250586579071
+51595,Emporia City,Virginia,Annual Labor Force Participation Rate,0.5935052970981115
+51620,Franklin City,Virginia,Annual Labor Force Participation Rate,0.5983685220729367
+51630,Fredericksburg City,Virginia,Annual Labor Force Participation Rate,0.7101103752759382
+51650,Hampton City,Virginia,Annual Labor Force Participation Rate,0.6427656727828747
+51670,Hopewell City,Virginia,Annual Labor Force Participation Rate,0.6083208826571659
+51680,Lynchburg City,Virginia,Annual Labor Force Participation Rate,0.6013360645713587
+51690,Martinsville City,Virginia,Annual Labor Force Participation Rate,0.5679442508710801
+51700,Newport News City,Virginia,Annual Labor Force Participation Rate,0.6542167084598126
+51710,Norfolk City,Virginia,Annual Labor Force Participation Rate,0.6594519626796671
+51730,Petersburg City,Virginia,Annual Labor Force Participation Rate,0.6171309835308604
+51735,Poquoson City,Virginia,Annual Labor Force Participation Rate,0.6397952012850115
+51740,Portsmouth City,Virginia,Annual Labor Force Participation Rate,0.609512681283937
+51760,Richmond City,Virginia,Annual Labor Force Participation Rate,0.6723216642906172
+51800,Suffolk City,Virginia,Annual Labor Force Participation Rate,0.6594690215788956
+51810,Virginia Beach City,Virginia,Annual Labor Force Participation Rate,0.6842694153931776
+51830,Williamsburg City,Virginia,Annual Labor Force Participation Rate,0.5089285714285714
+51001,Accomack County,Virginia,Annual Unemployment Rate,0.03879975834060549
+51007,Amelia County,Virginia,Annual Unemployment Rate,0.0433170152796321
+51011,Appomattox County,Virginia,Annual Unemployment Rate,0.03714577482767424
+51025,Brunswick County,Virginia,Annual Unemployment Rate,0.06885919835560124
+51029,Buckingham County,Virginia,Annual Unemployment Rate,0.07018561484918794
+51031,Campbell County,Virginia,Annual Unemployment Rate,0.04403414294611129
+51033,Caroline County,Virginia,Annual Unemployment Rate,0.04140759359703664
+51036,Charles City County,Virginia,Annual Unemployment Rate,0.03353927625772286
+51037,Charlotte County,Virginia,Annual Unemployment Rate,0.04113215231113826
+51041,Chesterfield County,Virginia,Annual Unemployment Rate,0.04719793167666322
+51049,Cumberland County,Virginia,Annual Unemployment Rate,0.027302441838108055
+51053,Dinwiddie County,Virginia,Annual Unemployment Rate,0.06168091168091168
+51057,Essex County,Virginia,Annual Unemployment Rate,0.08623816240177312
+51073,Gloucester County,Virginia,Annual Unemployment Rate,0.033490590491990255
+51075,Goochland County,Virginia,Annual Unemployment Rate,0.031486681984511954
+51081,Greensville County,Virginia,Annual Unemployment Rate,0.08872598584428716
+51083,Halifax County,Virginia,Annual Unemployment Rate,0.04967320261437908
+51085,Hanover County,Virginia,Annual Unemployment Rate,0.031478918407993786
+51087,Henrico County,Virginia,Annual Unemployment Rate,0.04065779461436134
+51089,Henry County,Virginia,Annual Unemployment Rate,0.058987459359033906
+51093,Isle Of Wight County,Virginia,Annual Unemployment Rate,0.05647590361445783
+51095,James City County,Virginia,Annual Unemployment Rate,0.04423544850589168
+51097,King And Queen County,Virginia,Annual Unemployment Rate,0.03236894872529361
+51099,King George County,Virginia,Annual Unemployment Rate,0.029108461932275287
+51101,King William County,Virginia,Annual Unemployment Rate,0.029783203536097664
+51103,Lancaster County,Virginia,Annual Unemployment Rate,0.11725218169612889
+51109,Louisa County,Virginia,Annual Unemployment Rate,0.061517615176151765
+51111,Lunenburg County,Virginia,Annual Unemployment Rate,0.047609317531671434
+51115,Mathews County,Virginia,Annual Unemployment Rate,0.06960110041265474
+51117,Mecklenburg County,Virginia,Annual Unemployment Rate,0.03409090909090909
+51119,Middlesex County,Virginia,Annual Unemployment Rate,0.06154473201548808
+51127,New Kent County,Virginia,Annual Unemployment Rate,0.031013615733736764
+51131,Northampton County,Virginia,Annual Unemployment Rate,0.05295354616708087
+51133,Northumberland County,Virginia,Annual Unemployment Rate,0.07329724853405503
+51135,Nottoway County,Virginia,Annual Unemployment Rate,0.0580226904376013
+51143,Pittsylvania County,Virginia,Annual Unemployment Rate,0.05375297425913909
+51145,Powhatan County,Virginia,Annual Unemployment Rate,0.01865572902884361
+51147,Prince Edward County,Virginia,Annual Unemployment Rate,0.044863381458059896
+51149,Prince George County,Virginia,Annual Unemployment Rate,0.07170742909633712
+51159,Richmond County,Virginia,Annual Unemployment Rate,0.02693498452012384
+51175,Southampton County,Virginia,Annual Unemployment Rate,0.0631755945231804
+51177,Spotsylvania County,Virginia,Annual Unemployment Rate,0.05996068152031455
+51179,Stafford County,Virginia,Annual Unemployment Rate,0.04102368220015279
+51181,Surry County,Virginia,Annual Unemployment Rate,0.06433607520564043
+51183,Sussex County,Virginia,Annual Unemployment Rate,0.05773238849520634
+51193,Westmoreland County,Virginia,Annual Unemployment Rate,0.11525591770975338
+51199,York County,Virginia,Annual Unemployment Rate,0.046864042442906366
+51550,Chesapeake City,Virginia,Annual Unemployment Rate,0.050789519204632504
+51570,Colonial Heights City,Virginia,Annual Unemployment Rate,0.06486721811057902
+51590,Danville City,Virginia,Annual Unemployment Rate,0.06030847758544163
+51595,Emporia City,Virginia,Annual Unemployment Rate,0.15909972836631742
+51620,Franklin City,Virginia,Annual Unemployment Rate,0.08473670141673349
+51630,Fredericksburg City,Virginia,Annual Unemployment Rate,0.04980104451628948
+51650,Hampton City,Virginia,Annual Unemployment Rate,0.05953106647437518
+51670,Hopewell City,Virginia,Annual Unemployment Rate,0.08634044965048177
+51680,Lynchburg City,Virginia,Annual Unemployment Rate,0.06050283448153138
+51690,Martinsville City,Virginia,Annual Unemployment Rate,0.054533060668029994
+51700,Newport News City,Virginia,Annual Unemployment Rate,0.05686683253760115
+51710,Norfolk City,Virginia,Annual Unemployment Rate,0.07124193122536121
+51730,Petersburg City,Virginia,Annual Unemployment Rate,0.12183564035415888
+51735,Poquoson City,Virginia,Annual Unemployment Rate,0.016161933155499766
+51740,Portsmouth City,Virginia,Annual Unemployment Rate,0.06330769751234805
+51760,Richmond City,Virginia,Annual Unemployment Rate,0.0598754427437152
+51800,Suffolk City,Virginia,Annual Unemployment Rate,0.06514519288086519
+51810,Virginia Beach City,Virginia,Annual Unemployment Rate,0.042865857274783745
+51830,Williamsburg City,Virginia,Annual Unemployment Rate,0.06161745827984596
+51001,Accomack County,Virginia,Below Poverty,0.12036055143160128
+51007,Amelia County,Virginia,Below Poverty,0.07772166105499438
+51011,Appomattox County,Virginia,Below Poverty,0.10329411764705883
+51025,Brunswick County,Virginia,Below Poverty,0.14704315396909962
+51029,Buckingham County,Virginia,Below Poverty,0.11918828666837915
+51031,Campbell County,Virginia,Below Poverty,0.06139201214044285
+51033,Caroline County,Virginia,Below Poverty,0.0640623037306871
+51036,Charles City County,Virginia,Below Poverty,0.09880749574105621
+51037,Charlotte County,Virginia,Below Poverty,0.1643141512848353
+51041,Chesterfield County,Virginia,Below Poverty,0.046171866012695954
+51049,Cumberland County,Virginia,Below Poverty,0.044301400984475575
+51053,Dinwiddie County,Virginia,Below Poverty,0.07576625608708107
+51057,Essex County,Virginia,Below Poverty,0.09261887863733144
+51073,Gloucester County,Virginia,Below Poverty,0.050004902441415824
+51075,Goochland County,Virginia,Below Poverty,0.018990073370738023
+51081,Greensville County,Virginia,Below Poverty,0.07369942196531792
+51083,Halifax County,Virginia,Below Poverty,0.11506058857472591
+51085,Hanover County,Virginia,Below Poverty,0.037087214225232853
+51087,Henrico County,Virginia,Below Poverty,0.05767414050822123
+51089,Henry County,Virginia,Below Poverty,0.10716987475834244
+51093,Isle Of Wight County,Virginia,Below Poverty,0.06943805757380668
+51095,James City County,Virginia,Below Poverty,0.03687817613874773
+51097,King And Queen County,Virginia,Below Poverty,0.06762513312034078
+51099,King George County,Virginia,Below Poverty,0.0447234762979684
+51101,King William County,Virginia,Below Poverty,0.0621347876899104
+51103,Lancaster County,Virginia,Below Poverty,0.08156271418779987
+51109,Louisa County,Virginia,Below Poverty,0.06819077650768625
+51111,Lunenburg County,Virginia,Below Poverty,0.09870493524676234
+51115,Mathews County,Virginia,Below Poverty,0.05281514698555057
+51117,Mecklenburg County,Virginia,Below Poverty,0.13050483351235231
+51119,Middlesex County,Virginia,Below Poverty,0.060854700854700856
+51127,New Kent County,Virginia,Below Poverty,0.034961832061068704
+51131,Northampton County,Virginia,Below Poverty,0.117046818727491
+51133,Northumberland County,Virginia,Below Poverty,0.11400753768844221
+51135,Nottoway County,Virginia,Below Poverty,0.09010859994129733
+51143,Pittsylvania County,Virginia,Below Poverty,0.11320529643325779
+51145,Powhatan County,Virginia,Below Poverty,0.03714519331853756
+51147,Prince Edward County,Virginia,Below Poverty,0.1322635545830294
+51149,Prince George County,Virginia,Below Poverty,0.06903899424675047
+51159,Richmond County,Virginia,Below Poverty,0.059154929577464786
+51175,Southampton County,Virginia,Below Poverty,0.05241762943945229
+51177,Spotsylvania County,Virginia,Below Poverty,0.04968076069383169
+51179,Stafford County,Virginia,Below Poverty,0.03147254766827475
+51181,Surry County,Virginia,Below Poverty,0.12274176408076515
+51183,Sussex County,Virginia,Below Poverty,0.06531141868512111
+51193,Westmoreland County,Virginia,Below Poverty,0.1336283185840708
+51199,York County,Virginia,Below Poverty,0.034834415758681764
+51550,Chesapeake City,Virginia,Below Poverty,0.05950811474291949
+51570,Colonial Heights City,Virginia,Below Poverty,0.08381445351383636
+51590,Danville City,Virginia,Below Poverty,0.19102016489520215
+51595,Emporia City,Virginia,Below Poverty,0.14964028776978416
+51620,Franklin City,Virginia,Below Poverty,0.12170753860127158
+51630,Fredericksburg City,Virginia,Below Poverty,0.09588807370755843
+51650,Hampton City,Virginia,Below Poverty,0.1039717257162722
+51670,Hopewell City,Virginia,Below Poverty,0.20316488004083716
+51680,Lynchburg City,Virginia,Below Poverty,0.11211105229104171
+51690,Martinsville City,Virginia,Below Poverty,0.23086654016445288
+51700,Newport News City,Virginia,Below Poverty,0.12383999273931885
+51710,Norfolk City,Virginia,Below Poverty,0.1269387285012285
+51730,Petersburg City,Virginia,Below Poverty,0.18932038834951456
+51735,Poquoson City,Virginia,Below Poverty,0.028731045490822026
+51740,Portsmouth City,Virginia,Below Poverty,0.13279721799608782
+51760,Richmond City,Virginia,Below Poverty,0.12954985754985754
+51800,Suffolk City,Virginia,Below Poverty,0.07793502092884194
+51810,Virginia Beach City,Virginia,Below Poverty,0.060181258834289514
+51830,Williamsburg City,Virginia,Below Poverty,0.06726825266611977
+51001,Accomack County,Virginia,Received Public Assistance,0.11567269643866591
+51007,Amelia County,Virginia,Received Public Assistance,0.11117533718689789
+51011,Appomattox County,Virginia,Received Public Assistance,0.14191045741069985
+51025,Brunswick County,Virginia,Received Public Assistance,0.23522438611346316
+51029,Buckingham County,Virginia,Received Public Assistance,0.1761006289308176
+51031,Campbell County,Virginia,Received Public Assistance,0.10798903025670997
+51033,Caroline County,Virginia,Received Public Assistance,0.09827272727272728
+51036,Charles City County,Virginia,Received Public Assistance,0.13437926330150068
+51037,Charlotte County,Virginia,Received Public Assistance,0.20798957881024752
+51041,Chesterfield County,Virginia,Received Public Assistance,0.06394366197183099
+51049,Cumberland County,Virginia,Received Public Assistance,0.16766917293233083
+51053,Dinwiddie County,Virginia,Received Public Assistance,0.13819633813790416
+51057,Essex County,Virginia,Received Public Assistance,0.17469178878809025
+51073,Gloucester County,Virginia,Received Public Assistance,0.07720736460153205
+51075,Goochland County,Virginia,Received Public Assistance,0.05902263592130315
+51081,Greensville County,Virginia,Received Public Assistance,0.13697769399937165
+51083,Halifax County,Virginia,Received Public Assistance,0.17184954834888197
+51085,Hanover County,Virginia,Received Public Assistance,0.046985859588191514
+51087,Henrico County,Virginia,Received Public Assistance,0.07991544936398294
+51089,Henry County,Virginia,Received Public Assistance,0.16016767401052837
+51093,Isle Of Wight County,Virginia,Received Public Assistance,0.08902609042023502
+51095,James City County,Virginia,Received Public Assistance,0.05146564474922684
+51097,King And Queen County,Virginia,Received Public Assistance,0.08633606849803782
+51099,King George County,Virginia,Received Public Assistance,0.0757014293276866
+51101,King William County,Virginia,Received Public Assistance,0.08129593520323984
+51103,Lancaster County,Virginia,Received Public Assistance,0.09986530690783144
+51109,Louisa County,Virginia,Received Public Assistance,0.08159526493799324
+51111,Lunenburg County,Virginia,Received Public Assistance,0.17309479553903345
+51115,Mathews County,Virginia,Received Public Assistance,0.06689151208544127
+51117,Mecklenburg County,Virginia,Received Public Assistance,0.13607269853812723
+51119,Middlesex County,Virginia,Received Public Assistance,0.12950425857174055
+51127,New Kent County,Virginia,Received Public Assistance,0.0494823019503973
+51131,Northampton County,Virginia,Received Public Assistance,0.13907785336356765
+51133,Northumberland County,Virginia,Received Public Assistance,0.08055393017359079
+51135,Nottoway County,Virginia,Received Public Assistance,0.1478621209267282
+51143,Pittsylvania County,Virginia,Received Public Assistance,0.1423184527429753
+51145,Powhatan County,Virginia,Received Public Assistance,0.03441522104085059
+51147,Prince Edward County,Virginia,Received Public Assistance,0.18684099536060733
+51149,Prince George County,Virginia,Received Public Assistance,0.11231187960294589
+51159,Richmond County,Virginia,Received Public Assistance,0.13304873710423337
+51175,Southampton County,Virginia,Received Public Assistance,0.12790872241405193
+51177,Spotsylvania County,Virginia,Received Public Assistance,0.06926831303187052
+51179,Stafford County,Virginia,Received Public Assistance,0.04459358386059957
+51181,Surry County,Virginia,Received Public Assistance,0.1264705882352941
+51183,Sussex County,Virginia,Received Public Assistance,0.1600109409190372
+51193,Westmoreland County,Virginia,Received Public Assistance,0.18125238155722087
+51199,York County,Virginia,Received Public Assistance,0.03489700263893812
+51550,Chesapeake City,Virginia,Received Public Assistance,0.07466475792110767
+51570,Colonial Heights City,Virginia,Received Public Assistance,0.1201607501674481
+51590,Danville City,Virginia,Received Public Assistance,0.23480365788058097
+51595,Emporia City,Virginia,Received Public Assistance,0.3294642857142857
+51620,Franklin City,Virginia,Received Public Assistance,0.2219343696027634
+51630,Fredericksburg City,Virginia,Received Public Assistance,0.10698338989105198
+51650,Hampton City,Virginia,Received Public Assistance,0.13593388892779606
+51670,Hopewell City,Virginia,Received Public Assistance,0.2413421081022764
+51680,Lynchburg City,Virginia,Received Public Assistance,0.14433809046615295
+51690,Martinsville City,Virginia,Received Public Assistance,0.20173267326732675
+51700,Newport News City,Virginia,Received Public Assistance,0.1378500306985932
+51710,Norfolk City,Virginia,Received Public Assistance,0.16113784898306363
+51730,Petersburg City,Virginia,Received Public Assistance,0.23873064159292035
+51735,Poquoson City,Virginia,Received Public Assistance,0.012129088152479966
+51740,Portsmouth City,Virginia,Received Public Assistance,0.16234793660674915
+51760,Richmond City,Virginia,Received Public Assistance,0.15233604193440664
+51800,Suffolk City,Virginia,Received Public Assistance,0.11512383330023547
+51810,Virginia Beach City,Virginia,Received Public Assistance,0.06388170306022163
+51830,Williamsburg City,Virginia,Received Public Assistance,0.07471745500209293
+51001,Accomack County,Virginia,Monthly Unemployment Rate (Aug),0.035
+51007,Amelia County,Virginia,Monthly Unemployment Rate (Aug),0.036000000000000004
+51011,Appomattox County,Virginia,Monthly Unemployment Rate (Aug),0.038
+51025,Brunswick County,Virginia,Monthly Unemployment Rate (Aug),0.05
+51029,Buckingham County,Virginia,Monthly Unemployment Rate (Aug),0.043
+51031,Campbell County,Virginia,Monthly Unemployment Rate (Aug),0.039
+51033,Caroline County,Virginia,Monthly Unemployment Rate (Aug),0.04
+51036,Charles City County,Virginia,Monthly Unemployment Rate (Aug),0.033
+51037,Charlotte County,Virginia,Monthly Unemployment Rate (Aug),0.033
+51041,Chesterfield County,Virginia,Monthly Unemployment Rate (Aug),0.033
+51049,Cumberland County,Virginia,Monthly Unemployment Rate (Aug),0.042
+51053,Dinwiddie County,Virginia,Monthly Unemployment Rate (Aug),0.04
+51057,Essex County,Virginia,Monthly Unemployment Rate (Aug),0.039
+51073,Gloucester County,Virginia,Monthly Unemployment Rate (Aug),0.032
+51075,Goochland County,Virginia,Monthly Unemployment Rate (Aug),0.032
+51081,Greensville County,Virginia,Monthly Unemployment Rate (Aug),0.046
+51083,Halifax County,Virginia,Monthly Unemployment Rate (Aug),0.045
+51085,Hanover County,Virginia,Monthly Unemployment Rate (Aug),0.028999999999999998
+51087,Henrico County,Virginia,Monthly Unemployment Rate (Aug),0.033
+51089,Henry County,Virginia,Monthly Unemployment Rate (Aug),0.038
+51093,Isle Of Wight County,Virginia,Monthly Unemployment Rate (Aug),0.033
+51095,James City County,Virginia,Monthly Unemployment Rate (Aug),0.033
+51097,King And Queen County,Virginia,Monthly Unemployment Rate (Aug),0.032
+51099,King George County,Virginia,Monthly Unemployment Rate (Aug),0.031000000000000003
+51101,King William County,Virginia,Monthly Unemployment Rate (Aug),0.032
+51103,Lancaster County,Virginia,Monthly Unemployment Rate (Aug),0.034
+51109,Louisa County,Virginia,Monthly Unemployment Rate (Aug),0.032
+51111,Lunenburg County,Virginia,Monthly Unemployment Rate (Aug),0.04
+51115,Mathews County,Virginia,Monthly Unemployment Rate (Aug),0.032
+51117,Mecklenburg County,Virginia,Monthly Unemployment Rate (Aug),0.043
+51119,Middlesex County,Virginia,Monthly Unemployment Rate (Aug),0.032
+51127,New Kent County,Virginia,Monthly Unemployment Rate (Aug),0.027000000000000003
+51131,Northampton County,Virginia,Monthly Unemployment Rate (Aug),0.035
+51133,Northumberland County,Virginia,Monthly Unemployment Rate (Aug),0.040999999999999995
+51135,Nottoway County,Virginia,Monthly Unemployment Rate (Aug),0.037000000000000005
+51143,Pittsylvania County,Virginia,Monthly Unemployment Rate (Aug),0.038
+51145,Powhatan County,Virginia,Monthly Unemployment Rate (Aug),0.028999999999999998
+51147,Prince Edward County,Virginia,Monthly Unemployment Rate (Aug),0.048
+51149,Prince George County,Virginia,Monthly Unemployment Rate (Aug),0.042
+51159,Richmond County,Virginia,Monthly Unemployment Rate (Aug),0.031000000000000003
+51175,Southampton County,Virginia,Monthly Unemployment Rate (Aug),0.032
+51177,Spotsylvania County,Virginia,Monthly Unemployment Rate (Aug),0.034
+51179,Stafford County,Virginia,Monthly Unemployment Rate (Aug),0.034
+51181,Surry County,Virginia,Monthly Unemployment Rate (Aug),0.034
+51183,Sussex County,Virginia,Monthly Unemployment Rate (Aug),0.052000000000000005
+51193,Westmoreland County,Virginia,Monthly Unemployment Rate (Aug),0.036000000000000004
+51199,York County,Virginia,Monthly Unemployment Rate (Aug),0.032
+51550,Chesapeake City,Virginia,Monthly Unemployment Rate (Aug),0.035
+51570,Colonial Heights City,Virginia,Monthly Unemployment Rate (Aug),0.039
+51590,Danville City,Virginia,Monthly Unemployment Rate (Aug),0.054000000000000006
+51595,Emporia City,Virginia,Monthly Unemployment Rate (Aug),0.057999999999999996
+51620,Franklin City,Virginia,Monthly Unemployment Rate (Aug),0.051
+51630,Fredericksburg City,Virginia,Monthly Unemployment Rate (Aug),0.039
+51650,Hampton City,Virginia,Monthly Unemployment Rate (Aug),0.045
+51670,Hopewell City,Virginia,Monthly Unemployment Rate (Aug),0.051
+51680,Lynchburg City,Virginia,Monthly Unemployment Rate (Aug),0.05
+51690,Martinsville City,Virginia,Monthly Unemployment Rate (Aug),0.052000000000000005
+51700,Newport News City,Virginia,Monthly Unemployment Rate (Aug),0.043
+51710,Norfolk City,Virginia,Monthly Unemployment Rate (Aug),0.040999999999999995
+51730,Petersburg City,Virginia,Monthly Unemployment Rate (Aug),0.067
+51735,Poquoson City,Virginia,Monthly Unemployment Rate (Aug),0.028999999999999998
+51740,Portsmouth City,Virginia,Monthly Unemployment Rate (Aug),0.044000000000000004
+51760,Richmond City,Virginia,Monthly Unemployment Rate (Aug),0.039
+51800,Suffolk City,Virginia,Monthly Unemployment Rate (Aug),0.037000000000000005
+51810,Virginia Beach City,Virginia,Monthly Unemployment Rate (Aug),0.032
+51830,Williamsburg City,Virginia,Monthly Unemployment Rate (Aug),0.049
+51001,Accomack County,Virginia,Uninsured,0.12271913046118343
+51007,Amelia County,Virginia,Uninsured,0.07798828273605718
+51011,Appomattox County,Virginia,Uninsured,0.08960640760903571
+51025,Brunswick County,Virginia,Uninsured,0.0571552912163632
+51029,Buckingham County,Virginia,Uninsured,0.11771029293200752
+51031,Campbell County,Virginia,Uninsured,0.08022641920209006
+51033,Caroline County,Virginia,Uninsured,0.06821173699161642
+51036,Charles City County,Virginia,Uninsured,0.07827874871493612
+51037,Charlotte County,Virginia,Uninsured,0.10207461645746163
+51041,Chesterfield County,Virginia,Uninsured,0.0752508033270487
+51049,Cumberland County,Virginia,Uninsured,0.0953562933085117
+51053,Dinwiddie County,Virginia,Uninsured,0.06055557567636083
+51057,Essex County,Virginia,Uninsured,0.10138730520714556
+51073,Gloucester County,Virginia,Uninsured,0.05711652402896639
+51075,Goochland County,Virginia,Uninsured,0.03928218778173698
+51081,Greensville County,Virginia,Uninsured,0.10556416061003215
+51083,Halifax County,Virginia,Uninsured,0.07778309219179724
+51085,Hanover County,Virginia,Uninsured,0.048880998592624625
+51087,Henrico County,Virginia,Uninsured,0.06926057278888431
+51089,Henry County,Virginia,Uninsured,0.08893131289026768
+51093,Isle Of Wight County,Virginia,Uninsured,0.06257116377598304
+51095,James City County,Virginia,Uninsured,0.051874901528281114
+51097,King And Queen County,Virginia,Uninsured,0.05291479820627798
+51099,King George County,Virginia,Uninsured,0.04737732656514382
+51101,King William County,Virginia,Uninsured,0.05383117626846867
+51103,Lancaster County,Virginia,Uninsured,0.07846613174099648
+51109,Louisa County,Virginia,Uninsured,0.07784916050315827
+51111,Lunenburg County,Virginia,Uninsured,0.09540157195771981
+51115,Mathews County,Virginia,Uninsured,0.10184528034066709
+51117,Mecklenburg County,Virginia,Uninsured,0.08241553424379
+51119,Middlesex County,Virginia,Uninsured,0.06608310888803381
+51127,New Kent County,Virginia,Uninsured,0.043841911764705865
+51131,Northampton County,Virginia,Uninsured,0.1077640009985853
+51133,Northumberland County,Virginia,Uninsured,0.08215628917676554
+51135,Nottoway County,Virginia,Uninsured,0.13370593293207222
+51143,Pittsylvania County,Virginia,Uninsured,0.07646209628684619
+51145,Powhatan County,Virginia,Uninsured,0.04881805157593122
+51147,Prince Edward County,Virginia,Uninsured,0.08262773722627736
+51149,Prince George County,Virginia,Uninsured,0.051483179583494465
+51159,Richmond County,Virginia,Uninsured,0.060731538992408574
+51175,Southampton County,Virginia,Uninsured,0.05444711538461533
+51177,Spotsylvania County,Virginia,Uninsured,0.0761360413621589
+51179,Stafford County,Virginia,Uninsured,0.07166671165942284
+51181,Surry County,Virginia,Uninsured,0.09067317966722632
+51183,Sussex County,Virginia,Uninsured,0.09161112874219823
+51193,Westmoreland County,Virginia,Uninsured,0.1098834318545937
+51199,York County,Virginia,Uninsured,0.03618662747979429
+51550,Chesapeake City,Virginia,Uninsured,0.06736424303594779
+51570,Colonial Heights City,Virginia,Uninsured,0.07840616966580982
+51590,Danville City,Virginia,Uninsured,0.09433098930738848
+51595,Emporia City,Virginia,Uninsured,0.0740475764621713
+51620,Franklin City,Virginia,Uninsured,0.04352623835213343
+51630,Fredericksburg City,Virginia,Uninsured,0.10135788757120845
+51650,Hampton City,Virginia,Uninsured,0.0758914520400722
+51670,Hopewell City,Virginia,Uninsured,0.07736516357206014
+51680,Lynchburg City,Virginia,Uninsured,0.07571666645135455
+51690,Martinsville City,Virginia,Uninsured,0.09915902140672783
+51700,Newport News City,Virginia,Uninsured,0.09666028455797204
+51710,Norfolk City,Virginia,Uninsured,0.10789671887371821
+51730,Petersburg City,Virginia,Uninsured,0.10846282424317466
+51735,Poquoson City,Virginia,Uninsured,0.029325032765399772
+51740,Portsmouth City,Virginia,Uninsured,0.09187987382809082
+51760,Richmond City,Virginia,Uninsured,0.10677154490846297
+51800,Suffolk City,Virginia,Uninsured,0.0643857194787456
+51810,Virginia Beach City,Virginia,Uninsured,0.07123498287054564
+51830,Williamsburg City,Virginia,Uninsured,0.06740976645435248
